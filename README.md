@@ -6,11 +6,16 @@ A command-line interface to make back edit to a MediaWiki installation.
 Run the command from the root directory of you MediaWiki instalation.
 
 `--user=USERNAME`
-  The username of the user that will be doing the edits.
+
+&nbsp;&nbsp;&nbsp;&nbsp;The username of the user that will be doing the edits.
+  
 `--commit-message="MESSAGE"`
-  The commit message of the edits.
+
+&nbsp;&nbsp;&nbsp;&nbsp;The commit message of the edits.
+
 `--edit-list=PATH`
-  A path to the file that contains the edits that need to be done.
+
+&nbsp;&nbsp;&nbsp;&nbsp;A path to the file that contains the edits that need to be done.
 
 ## JSON file structure
 
@@ -42,5 +47,3 @@ Run the command from the root directory of you MediaWiki instalation.
   ...
 }
 ```
-
-### Edit pages matching a pattern
