@@ -7,11 +7,12 @@ $dryRun = false; // Do the parsing and the page retrieval but do not save.
 $noConfirm = false; // Do not ask for confirmation when saving a change.
 $username = false;
 $password = false;
-//$apiUrl = "https://wikimedi.ca/api.php";
-$apiUrl = "http://localhost/projects/Wikimedica/api.php";
+$apiUrl = "https://wikimedi.ca/api.php";
+//$apiUrl = "http://localhost/projects/Wikimedica/api.php";
 $editFile = false;
 $includeRedirects = false;
 $editSummary = '';
+$startAt = null;
 
 array_shift($argv); // First argument is the script name.
 
@@ -96,7 +97,13 @@ foreach($json as $pattern => $edit) {
 
     unset($edit['match']);
 
-    $content = $page->getRevisions()->getLatest()->getContent()->getData();
+    $revision = $page->getRevisions()->getLatest();
+    if(!$revision) {
+         echo " ... No revisions found, page may have been deleted\n";
+        continue;
+    }
+    
+    $content = $revision->getContent()->getData();
 
     if(!$includeRedirects && strpos($content, '#REDIRECTION') !== false) {
         echo "... [Page is a redirect, skipping]\n";
@@ -170,7 +177,7 @@ function templateJob($page, $content, $config){
         foreach($config['values'] as $k => $v) {
             if(isset($data[0][$k]) ) { // If the parameter is already defined.
                 if($data[0][$k] == strval($v)) { continue; } // The value has not changed.
-                echo "\n ... ... Parameter $k value $data[0][$k] to be replaced with $v in $template\n";
+                echo "\n ... ... Parameter $k value ".$data[0][$k]." to be replaced with $v in $template\n";
             } else { echo "\n ... ... Parameter $k with value $v to be added in $template\n"; }
             
             $somethingDone = true;
