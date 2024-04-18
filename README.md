@@ -34,6 +34,10 @@ The last argument is the path to the JSON file.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Do not ask for a confirmation before saving a page.
 
+`--start-at="PATTERN"`
+
+&nbsp;&nbsp;&nbsp;&nbsp;Start the processing of the JSON file at PATTERN (useful if execution of the file failed).
+
 ## JSON file structure
 
 ### Edit single pages

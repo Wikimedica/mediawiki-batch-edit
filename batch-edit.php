@@ -46,6 +46,9 @@ foreach($argv as $a){
         case '--edit-summary':
             $editSummary = $value;
             break;
+        case '--start-at':
+            $startAt = $value;
+            break;
         default:
             // This should be the file name.
             $editFile = $arg;
@@ -71,6 +74,16 @@ $auth = new \Addwiki\Mediawiki\Api\Client\Auth\UserAndPassword( $username, $pass
 $api = new \Addwiki\Mediawiki\Api\Client\Action\ActionApi( $apiUrl, $auth );
 $services = new \Addwiki\Mediawiki\Api\MediawikiFactory( $api );
 $getter = $services->newPageGetter();
+
+if($startAt && !isset($json[$startAt])) { die("--start-at pattern not found"); }
+
+// If processing the JSON file should start at a specific pattern.
+if($startAt) {
+    foreach($json as $k => $v) { // Crude but works.
+        if($k == $startAt) { break; }
+        unset($json[$k]);
+    }
+}
 
 // Start processing batch edit json.
 foreach($json as $pattern => $edit) {
@@ -125,7 +138,7 @@ foreach($json as $pattern => $edit) {
                 }
 
                 break;
-            default:
+            default: 
                 die("Fatal: $pattern work type not supported\n");
         }
     }
