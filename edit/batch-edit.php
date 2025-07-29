@@ -77,11 +77,15 @@ $getter = $services->newPageGetter();
 
 if($startAt && !isset($json[$startAt])) { die("--start-at pattern not found"); }
 
+$count = 0; // A count for the number of jobs the user it at.
+$total = count($json);
+
 // If processing the JSON file should start at a specific pattern.
 if($startAt) {
     foreach($json as $k => $v) { // Crude but works.
         if($k == $startAt) { break; }
         unset($json[$k]);
+        $count++;
     }
 }
 
@@ -91,11 +95,12 @@ foreach($json as $pattern => $edit) {
     if(!is_array($edit)) { die("Fatal: $pattern edit json invalid\n"); }
     
     $pages = []; // The pages that have been matched.
+    $count++;
 
     switch(isset($edit['match']) ? $edit['match']: 'exact') { // Match exact patterns by default.
         case 'exact':
 
-            echo "Searching for pattern $pattern ... ";
+            echo "$count / $total : Searching for pattern $pattern ... ";
             if(!$page = $getter->getFromTitle( $pattern )) {
                 echo "[Not found]\n";
                 continue 2;
