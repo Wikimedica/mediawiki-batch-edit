@@ -1,0 +1,582 @@
+[
+    {
+        "vars": {
+            "specialty": "ORL, dentisterie",
+            "title": "Douleur aux dents (symptôme)"
+        },
+        "__title__": {
+            "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=ORL|terme_anglais=dental pain, odontalgia}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Douleur dentaire (symptôme)"
+            ]   
+        },
+        "Gestion:Rédaction/Tâches/1800": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "ORL",
+            "title": "Douleur au nez (symptôme)"
+        },
+        "__title__": {
+            "create": "{{Article de douleur (symptôme)|terme_anglais=nasal pain|spécialités=__specialty__|systèmes=ORL}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Douleur nasale (symptôme)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/1801": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "ORL",
+            "title": "Douleur à la gorge (symptôme)"
+        },
+        "__title__": {
+            "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=ORL|terme_anglais=throat pain, pharyngeal pain}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+        },
+        "Gestion:Rédaction/Tâches/1802": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Chirurgie maxillo-faciale, ORL, dentisterie, dermatologie",
+            "title": "Douleur au visage (symptôme)"
+        },
+        "__title__": {
+            "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=ORL, dermatologie|terme_anglais=facial pain}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+        },
+        "Gestion:Rédaction/Tâches/1803": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Chirurgie maxillo-faciale, ORL, dentisterie",
+            "title": "Douleur à la bouche (symptôme)"
+        },
+        "__title__": {
+            "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=ORL|terme_anglais=oral pain, mouth pain}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+        },
+        "Gestion:Rédaction/Tâches/1804": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Chirurgie maxillo-faciale, ORL",
+            "title": "Douleur à la langue (symptôme)"
+        },
+        "__title__": {
+            "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=ORL|terme_anglais=tongue pain, glossodynia}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+        },
+        "Gestion:Rédaction/Tâches/1805": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie, traumatologie",
+            "title": "Douleur au bras (symptôme)"
+        },
+        "__title__": {
+            "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=locomoteur|terme_anglais=arm pain}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+        },
+        "Gestion:Rédaction/Tâches/1806": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie, traumatologie",
+            "title": "Douleur à l'avant-bras (symptôme)"
+        },
+        "__title__": {
+            "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=locomoteur|terme_anglais=forearm pain}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+        },
+        "Gestion:Rédaction/Tâches/1807": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie, chirurgie plastique",
+            "title": "Douleur à la main (symptôme)"
+        },
+        "__title__": {
+            "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=locomoteur|terme_anglais=hand pain}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+        },
+        "Gestion:Rédaction/Tâches/1808": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Gynécologie, chirurgie générale",
+            "title": "Mastalgie (symptôme)"
+        },
+        "__title__": {
+            "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=reproducteur féminin|terme_anglais=breast pain, mastalgia}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Douleur au sein (symptôme)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/1809": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Dermatologie, chirurgie générale",
+            "title": "Douleur axillaire (symptôme)"
+        },
+        "__title__": {
+            "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=dermatologique|terme_anglais=axillary pain}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+        },
+        "Gestion:Rédaction/Tâches/1810": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Gastro-entérologie, chirurgie générale, chirurgie vasculaire, urologie, médecine d'urgence, gynécologie",
+            "title": "Douleur abdominale généralisée (symptôme)"
+        },
+        "__title__": {
+            "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=digestif|terme_anglais=generalized abdominal pain}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Douleur abdominale (symptôme)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/1811": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Gastro-entérologie, chirurgie générale, pneumologie",
+            "title": "Douleur à l'hypochondre droit (symptôme)"
+        },
+        "__title__": {
+            "create": "{{Article de douleur (symptôme)|acronyme=Douleur à l'HCD|spécialités=__specialty__|systèmes=digestif|terme_anglais=right upper quadrant pain|autres_noms=Douleur au quadrant supérieur droit}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Douleur à l'HCD (symptôme)",
+                "Douleur à l'hypochondre droit",
+                "Douleur au QSD (symptôme)",
+                "Douleur au quadrant supérieur droit",
+                "Douleur au quadrant supérieur droit (symptôme)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/1812": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Gastro-entérologie, chirurgie générale, urologie",
+            "title": "Douleur au flanc droit (symptôme)"
+        },
+        "__title__": {
+            "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=digestif, urinaire|terme_anglais=right flank pain}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+        },
+        "Gestion:Rédaction/Tâches/1813": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Gynécologie, chirurgie générale, urologie",
+            "title": "Douleur à la fosse iliaque droite (symptôme)"
+        },
+        "__title__": {
+            "create": "{{Article de douleur (symptôme)|acronyme=Douleur à la FID|spécialités=__specialty__|systèmes=digestif, reproducteur masculin, reproducteur féminin|terme_anglais=right iliac fossa pain}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Douleur à la FID (symptôme)",
+                "Douleur à la fosse iliaque droite",
+                "Douleur au QID (symptôme)",
+                "Douleur au quadrant inférieur droit",
+                "Douleur au quadrant inférieur droit (symptôme)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/1814": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Gastro-entérologie, chirurgie générale",
+            "title": "Douleur épigastrique (symptôme)"
+        },
+        "__title__": {
+            "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=digestif|terme_anglais=epigastric pain|autres_noms=épigastralgie}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Douleur épigrastrique",
+                "Épigastralgie (symptôme)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/1815": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Gastro-entérologie, chirurgie générale",
+            "title": "Douleur péri-ombilicale (symptôme)"
+        },
+        "__title__": {
+            "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=digestif|terme_anglais=periumbilical pain}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Douleur péri-ombilicale"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/1816": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Gynécologie, urologie",
+            "title": "Douleur sus-pubienne (symptôme)"
+        },
+        "__title__": {
+            "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=reproducteur féminin, reproducteur masculin, urinaire|terme_anglais=suprapubic pain}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+        },
+        "Gestion:Rédaction/Tâches/1817": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Gastro-entérologie, chirurgie générale, pneumologie, gastro-entérologie",
+            "title": "Douleur à l'hypochondre gauche (symptôme)"
+        },
+        "__title__": {
+            "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=digestif|terme_anglais=left upper quadrant pain|autres_noms=Douleur au quadrant supérieur gauche}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Douleur à l'HCG (symptôme)",
+                "Douleur à l'hypochondre gauche",
+                "Douleur au QSG (symptôme)",
+                "Douleur au quadrant supérieur gauche",
+                "Douleur au quadrant supérieur gauche (symptôme)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/1818": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Gastro-entérologie, chirurgie générale, gastro-entérologie",
+            "title": "Douleur au flanc gauche (symptôme)"
+        },
+        "__title__": {
+            "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=digestif, urinaire|terme_anglais=left flank pain}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+        },
+        "Gestion:Rédaction/Tâches/1819": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Gynécologie, chirurgie générale, gastro-entérologie",
+            "title": "Douleur à la fosse iliaque gauche (symptôme)"
+        },
+        "__title__": {
+            "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=digestif, reproducteur masculin, reproducteur féminin|terme_anglais=left iliac fossa pain}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Douleur à la FIG (symptôme)",
+                "Douleur à la fosse iliaque gauche",
+                "Douleur au QIG (symptôme)",
+                "Douleur au quadrant inférieur gauche",
+                "Douleur au inférieur gauche (symptôme)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/1820": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Gynécologie, urologie",
+            "title": "Douleur pelvienne (symptôme)"
+        },
+        "__title__": {
+            "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=reproducteur masculin, reproducteur féminin, urinaire|terme_anglais=pelvic pain}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+        },
+        "Gestion:Rédaction/Tâches/1821": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie, neurochirurgie",
+            "title": "Douleur au sacrum (symptôme)"
+        },
+        "__title__": {
+            "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=locomoteur, neurologique|terme_anglais=sacral pain}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+        },
+        "Gestion:Rédaction/Tâches/1822": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Chirurgie générale, urologie",
+            "title": "Douleur inguinale (symptôme)"
+        },
+        "__title__": {
+            "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=locomoteur, reproducteur masculin, reproducteur féminin|terme_anglais=inguinal pain}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+        },
+        "Gestion:Rédaction/Tâches/1823": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie",
+            "title": "Douleur à la fesse (symptôme)"
+        },
+        "__title__": {
+            "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=locomoteur|terme_anglais=buttock pain, gluteal pain}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+        },
+        "Gestion:Rédaction/Tâches/1824": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Gastro-entérologie, chirurgie générale",
+            "title": "Douleur ano-rectale (symptôme)"
+        },
+        "__title__": {
+            "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|autres noms=Proctalgie|systèmes=digestif|terme_anglais=anorectal pain|approches cliniques=Douleur ano-rectale (approche clinique)}}",
+            "redirects": [
+                "Proctalgie (symptôme)",
+                "Douleur anale (symptôme)",
+                "Douleur rectale (symptôme)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/1825": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Urologie",
+            "title": "Douleur au pénis (symptôme)"
+        },
+        "__title__": {
+            "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=reproducteur masculin, urinaire|autres_noms=Douleur pénienne|terme_anglais=penile pain}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+        },
+        "Gestion:Rédaction/Tâches/1826": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Gynécologie",
+            "title": "Douleur à la vulve (symptôme)"
+        },
+        "__title__": {
+            "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=reproducteur féminin|terme_anglais=vulvar pain, vulvodynia}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+        },
+        "Gestion:Rédaction/Tâches/1827": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Gynécologie",
+            "title": "Douleur vaginale (symptôme)"
+        },
+        "__title__": {
+            "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=reproducteur féminin|terme_anglais=vaginal pain}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+        },
+        "Gestion:Rédaction/Tâches/1828": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Urologie",
+            "title": "Douleur au testicule (symptôme)"
+        },
+        "__title__": {
+            "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=reproducteur masculin|terme_anglais=testicular pain, orchialgia}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Douleur aux testicules (symptôme)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/1829": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie, chirurgie vasculaire, hématologie",
+            "title": "Douleur à la cuisse (symptôme)"
+        },
+        "__title__": {
+            "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=locomoteur|terme_anglais=thigh pain}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+        },
+        "Gestion:Rédaction/Tâches/1830": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie, chirurgie vasculaire, hématologie",
+            "title": "Douleur à la jambe (symptôme)"
+        },
+        "__title__": {
+            "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=locomoteur|terme_anglais=leg pain}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+        },
+        "Gestion:Rédaction/Tâches/1831": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Chirurgie maxillo-faciale, dentisterie",
+            "title": "Douleur mandibulaire (symptôme)"
+        },
+        "__title__": {
+            "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=ORL|terme_anglais=mandibular pain, jaw pain|autres_noms=Douleur à la mâchoire}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Douleur à la mâchoire (symptôme)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/1832": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie",
+            "title": "Douleur à l'épaule (symptôme)"
+        },
+        "Gestion:Rédaction/Tâches/1833": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie",
+            "title": "Douleur au coude (symptôme)"
+        },
+        "Gestion:Rédaction/Tâches/1834": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie",
+            "title": "Douleur au poignet (symptôme)"
+        },
+        "Gestion:Rédaction/Tâches/1835": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie, chirurgie plastique",
+            "title": "Douleur au pouce (symptôme)"
+        },
+        "Gestion:Rédaction/Tâches/1836": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie, chirurgie plastique, rhumatologie",
+            "title": "Douleur à un doigt (symptôme)"
+        },
+        "Gestion:Rédaction/Tâches/1837": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie, rhumatologie",
+            "title": "Dorsalgie (symptôme)"
+        },
+        "Gestion:Rédaction/Tâches/1838": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie, rhumatologie",
+            "title": "Lombalgie (symptôme)"
+        },
+        "Gestion:Rédaction/Tâches/1839": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie",
+            "title": "Coxalgie (symptôme)"
+        },
+        "Gestion:Rédaction/Tâches/1840": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie",
+            "title": "Gonaligie (symptôme)"
+        },
+        "Gestion:Rédaction/Tâches/1841": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie",
+            "title": "Douleur à la cheville (symptôme)"
+        },
+        "Gestion:Rédaction/Tâches/1842": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie",
+            "title": "Douleur au pied (symptôme)"
+        },
+        "Gestion:Rédaction/Tâches/1843": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie",
+            "title": "Tatalgie(symptôme)"
+        },
+        "Gestion:Rédaction/Tâches/1844": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie, rhumatologie",
+            "title": "Douleur aux orteils (symptôme)"
+        },
+        "Gestion:Rédaction/Tâches/1845": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie, rhumatologie",
+            "title": "Douleur à l'hallux (symptôme)"
+        },
+        "Gestion:Rédaction/Tâches/1846": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        }
+    }
+]
