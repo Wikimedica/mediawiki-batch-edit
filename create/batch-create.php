@@ -7,12 +7,12 @@ $dryRun = false; // Do the parsing and the page retrieval but do not save.
 $noConfirm = false; // Do not ask for confirmation when saving a change.
 $username = false;
 $password = false;
-//$apiUrl = "https://wikimedi.ca/api.php";
-$apiUrl = "http://localhost/projects/Wikimedica/api.php";
+$apiUrl = "https://wikimedi.ca/api.php";
+//$apiUrl = "http://localhost/projects/Wikimedica/api.php";
 $createFile = false;
 $createSummary = '';
 $startAt = null;
-$changeTags = ['batch-create-script'];
+$changeTags = ['batch-page-create-script'];
 
 array_shift($argv); // First argument is the script name.
 
@@ -98,7 +98,7 @@ foreach($json as $index => $item) {
     // Add current date to vars
     $vars['date'] = date('Y-m-d');
     
-    echo "$count / $total : Processing item $index ... \n";
+    echo "$count / $total : Processing item ".($index +1 )." ... \n";
     
     // Process each page to create
     foreach($item as $pageTitle => $pageConfig) {
