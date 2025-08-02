@@ -11,7 +11,7 @@
         ]
       },
       "Gestion:Rédaction/Tâches/1800": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -26,7 +26,7 @@
         ]
       },
       "Gestion:Rédaction/Tâches/1801": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -38,7 +38,7 @@
         "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=ORL|terme_anglais=throat pain, pharyngeal pain}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />|snomed_ct_id=162397003}"
       },
       "Gestion:Rédaction/Tâches/1802": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -50,7 +50,7 @@
         "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=ORL, dermatologie|terme_anglais=facial pain}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />|snomed_ct_id=95668009}"
       },
       "Gestion:Rédaction/Tâches/1803": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -62,7 +62,7 @@
         "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=ORL|terme_anglais=oral pain, mouth pain}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />|snomed_ct_id=102616008}"
       },
       "Gestion:Rédaction/Tâches/1804": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -74,7 +74,7 @@
         "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=ORL|terme_anglais=tongue pain, glossodynia}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />|snomed_ct_id=30731004}"
       },
       "Gestion:Rédaction/Tâches/1805": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -86,7 +86,7 @@
         "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=locomoteur|terme_anglais=arm pain}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />|snomed_ct_id=771083005}"
       },
       "Gestion:Rédaction/Tâches/1806": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -98,7 +98,7 @@
         "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=locomoteur|terme_anglais=forearm pain}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
       },
       "Gestion:Rédaction/Tâches/1807": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -110,7 +110,7 @@
         "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=locomoteur|terme_anglais=hand pain}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />|snomed_ct_id=53057004}"
       },
       "Gestion:Rédaction/Tâches/1808": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -125,7 +125,7 @@
         ]
       },
       "Gestion:Rédaction/Tâches/1809": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -137,7 +137,7 @@
         "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=dermatologique|terme_anglais=axillary pain}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />|snomed_ct_id=300953009}"
       },
       "Gestion:Rédaction/Tâches/1810": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -152,7 +152,7 @@
         ]
       },
       "Gestion:Rédaction/Tâches/1811": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -171,7 +171,7 @@
         ]
       },
       "Gestion:Rédaction/Tâches/1812": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -183,7 +183,7 @@
         "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=digestif, urinaire|terme_anglais=right flank pain}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />|snomed_ct_id=1119217009}"
       },
       "Gestion:Rédaction/Tâches/1813": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -202,7 +202,7 @@
         ]
       },
       "Gestion:Rédaction/Tâches/1814": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -218,7 +218,7 @@
         ]
       },
       "Gestion:Rédaction/Tâches/1815": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -233,7 +233,7 @@
         ]
       },
       "Gestion:Rédaction/Tâches/1816": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -245,7 +245,7 @@
         "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=reproducteur féminin, reproducteur masculin, urinaire|terme_anglais=suprapubic pain}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />|snomed_ct_id=162053006}"
       },
       "Gestion:Rédaction/Tâches/1817": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -264,7 +264,7 @@
         ]
       },
       "Gestion:Rédaction/Tâches/1818": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -276,7 +276,7 @@
         "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=digestif, urinaire|terme_anglais=left flank pain}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />|snomed_ct_id=1119218004}"
       },
       "Gestion:Rédaction/Tâches/1819": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -295,7 +295,7 @@
         ]
       },
       "Gestion:Rédaction/Tâches/1820": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -307,7 +307,7 @@
         "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=reproducteur masculin, reproducteur féminin, urinaire|terme_anglais=pelvic pain}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />|snomed_ct_id=30473006}"
       },
       "Gestion:Rédaction/Tâches/1821": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -319,7 +319,7 @@
         "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=locomoteur, neurologique|terme_anglais=sacral pain}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />|snomed_ct_id=61486003}"
       },
       "Gestion:Rédaction/Tâches/1822": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -331,7 +331,7 @@
         "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=locomoteur, reproducteur masculin, reproducteur féminin|terme_anglais=inguinal pain}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />|snomed_ct_id=102570003}"
       },
       "Gestion:Rédaction/Tâches/1823": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -343,7 +343,7 @@
         "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=locomoteur|terme_anglais=buttock pain, gluteal pain}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />|snomed_ct_id=279043006}"
       },
       "Gestion:Rédaction/Tâches/1824": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -360,7 +360,7 @@
         ]
       },
       "Gestion:Rédaction/Tâches/1825": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -372,7 +372,7 @@
         "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=reproducteur masculin, urinaire|autres_noms=Douleur pénienne|terme_anglais=penile pain}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />|snomed_ct_id=285375003}"
       },
       "Gestion:Rédaction/Tâches/1826": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -384,7 +384,7 @@
         "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=reproducteur féminin|terme_anglais=vulvar pain, vulvodynia}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />|snomed_ct_id=162145001}"
       },
       "Gestion:Rédaction/Tâches/1827": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -396,7 +396,7 @@
         "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=reproducteur féminin|terme_anglais=vaginal pain}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />|snomed_ct_id=38343000}"
       },
       "Gestion:Rédaction/Tâches/1828": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -411,7 +411,7 @@
         ]
       },
       "Gestion:Rédaction/Tâches/1829": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -423,7 +423,7 @@
         "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=locomoteur|terme_anglais=thigh pain}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />|snomed_ct_id=78514002}"
       },
       "Gestion:Rédaction/Tâches/1830": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -435,7 +435,7 @@
         "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=locomoteur|terme_anglais=leg pain}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />|snomed_ct_id=10601006}"
       },
       "Gestion:Rédaction/Tâches/1831": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -450,7 +450,7 @@
         ]
       },
       "Gestion:Rédaction/Tâches/1832": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -459,7 +459,7 @@
         "title": "Douleur à l'épaule (symptôme)"
       },
       "Gestion:Rédaction/Tâches/1833": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -468,7 +468,7 @@
         "title": "Douleur au coude (symptôme)"
       },
       "Gestion:Rédaction/Tâches/1834": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -477,7 +477,7 @@
         "title": "Douleur au poignet (symptôme)"
       },
       "Gestion:Rédaction/Tâches/1835": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -486,7 +486,7 @@
         "title": "Douleur au pouce (symptôme)"
       },
       "Gestion:Rédaction/Tâches/1836": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -495,7 +495,7 @@
         "title": "Douleur à un doigt (symptôme)"
       },
       "Gestion:Rédaction/Tâches/1837": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -504,7 +504,7 @@
         "title": "Dorsalgie (symptôme)"
       },
       "Gestion:Rédaction/Tâches/1838": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -513,7 +513,7 @@
         "title": "Lombalgie (symptôme)"
       },
       "Gestion:Rédaction/Tâches/1839": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -522,7 +522,7 @@
         "title": "Coxalgie (symptôme)"
       },
       "Gestion:Rédaction/Tâches/1840": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -531,7 +531,7 @@
         "title": "Gonaligie (symptôme)"
       },
       "Gestion:Rédaction/Tâches/1841": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -540,7 +540,7 @@
         "title": "Douleur à la cheville (symptôme)"
       },
       "Gestion:Rédaction/Tâches/1842": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -549,7 +549,7 @@
         "title": "Douleur au pied (symptôme)"
       },
       "Gestion:Rédaction/Tâches/1843": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -558,7 +558,7 @@
         "title": "Tatalgie(symptôme)"
       },
       "Gestion:Rédaction/Tâches/1844": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -567,7 +567,7 @@
         "title": "Douleur aux orteils (symptôme)"
       },
       "Gestion:Rédaction/Tâches/1845": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     },
     {
@@ -576,7 +576,7 @@
         "title": "Douleur à l'hallux (symptôme)"
       },
       "Gestion:Rédaction/Tâches/1846": {
-        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=2|specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=3|priority=3||task_completion_date=__date__||specialties=__specialty__|difficulty=1|copyediting_status=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau||class=Classe:Symptôme|projets=|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
       }
     }
   ]
