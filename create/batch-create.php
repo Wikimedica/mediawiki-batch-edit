@@ -30,10 +30,6 @@ foreach($argv as $a){
         case '--password':
             $password = $value;
             break;
-        case '--commit-message':
-            $commitMessage = $value;
-            if($commitMessage[0] == '"') { $commitMessage = substr($commitMessage, 1, strlen($commitMessage) - 1);  } // Remove quotes.
-            break;
         case '--dry-run':
             $dryRun = true;
             break;
@@ -42,6 +38,7 @@ foreach($argv as $a){
             break;
         case '--create-summary':
             $createSummary = $value;
+            if($createSummary[0] == '"') { $createSummary = substr($createSummary, 1, strlen($createSummary) - 1);  } // Remove quotes.
             break;
         case '--start-at':
             $startAt = $value;
