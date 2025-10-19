@@ -200,6 +200,11 @@ function createPage($pageTitle, $content, $summary) {
         
         if($result) {
             echo " ... [Created successfully]\n";
+            
+            // Sleep 1 second between API calls when noConfirm is true (rate limiting)
+            if($noConfirm) {
+                sleep(1);
+            }
         } else {
             echo " ... [Failed to create]\n";
         }

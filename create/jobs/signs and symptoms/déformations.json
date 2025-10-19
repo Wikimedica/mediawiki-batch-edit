@@ -5,7 +5,7 @@
       "title": "Déformation du crâne (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de déformation (signe clinique)|spécialités=__specialty__|systèmes=Neurologique, musculosquelettique|autres_noms=Déformation crânienne|terme_anglais=Cranial deformity, skull deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de déformation (signe clinique)|modalités=Apparence générale, examen neurologique, examen traumatologique|spécialités=__specialty__|systèmes=Neurologique, musculosquelettique|autres_noms=Déformation crânienne|terme_anglais=Cranial deformity, skull deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Déformation crânienne (signe clinique)",
         "Déformation de la tête (signe clinique)"
@@ -20,11 +20,11 @@
   },
   {
     "vars": {
-      "specialty": "ORL, chirurgie plastique, dermatologie",
+      "specialty": "ORL, chirurgie plastique, dermatologie, chirurgie plastique",
       "title": "Déformation de l'oreille (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de déformation (signe clinique)|spécialités=__specialty__|systèmes=ORL, dermatologique|autres_noms=Déformation auriculaire|terme_anglais=Ear deformity, auricular deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de déformation (signe clinique)|modalités=Examen ORL, examen traumatologique|spécialités=__specialty__|systèmes=ORL, dermatologique|autres_noms=Déformation auriculaire|terme_anglais=Ear deformity, auricular deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Déformation auriculaire (signe clinique)"
       ]
@@ -38,11 +38,11 @@
   },
   {
     "vars": {
-      "specialty": "ORL, dentisterie",
+      "specialty": "ORL, dentisterie, chirurgie maxillo-faciale",
       "title": "Déformation des dents (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de déformation (signe clinique)|spécialités=__specialty__|systèmes=ORL|autres_noms=Déformation dentaire|terme_anglais=Dental deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de déformation (signe clinique)|modalités=Examen ORL, examen de la bouche, examen traumatologique|spécialités=__specialty__|systèmes=ORL|autres_noms=Déformation dentaire|terme_anglais=Dental deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Déformation dentaire (signe clinique)"
       ]
@@ -56,11 +56,11 @@
   },
   {
     "vars": {
-      "specialty": "ORL",
+      "specialty": "ORL, chirurgie plastique",
       "title": "Déformation du nez (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de déformation (signe clinique)|terme_anglais=Nasal deformity|snomed_ct_id=249357006|autres_noms=Déformation nasale|spécialités=__specialty__|systèmes=ORL}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de déformation (signe clinique)|modalités=Examen ORL, examen du nez, examen traumatologique|terme_anglais=Nasal deformity|snomed_ct_id=249357006|autres_noms=Déformation nasale|spécialités=__specialty__|systèmes=ORL}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Déformation nasale (signe clinique)"
       ]
@@ -74,11 +74,11 @@
   },
   {
     "vars": {
-      "specialty": "Chirurgie maxillo-faciale, ORL, dentisterie, dermatologie",
+      "specialty": "Chirurgie maxillo-faciale, ORL, chirurgie plastique",
       "title": "Déformation du visage (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de déformation (signe clinique)|spécialités=__specialty__|systèmes=ORL, dermatologie|autres_noms=Déformation faciale|terme_anglais=Facial deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de déformation (signe clinique)|modalités=Apparence générale, examen ORL examen traumatologique|spécialités=__specialty__|systèmes=ORL, dermatologie|autres_noms=Déformation faciale|terme_anglais=Facial deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Déformation faciale (signe clinique)"
       ]
@@ -96,7 +96,10 @@
       "title": "Déformation de la bouche (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de déformation (signe clinique)|spécialités=__specialty__|systèmes=ORL|terme_anglais=Mouth deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de déformation (signe clinique)|spécialités=__specialty__|autres_noms=Déformation buccale|modalités=Examen ORL, examen de la bouche|systèmes=ORL|terme_anglais=Mouth deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "redirects": [
+        "Déformation buccale (signe clinique)"
+      ]
     },
     "Gestion:Rédaction/Tâches/1904": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
@@ -111,7 +114,7 @@
       "title": "Déformation labiale (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de déformation (signe clinique)|spécialités=__specialty__|systèmes=ORL, dermatologie|autres_noms=Déformation des lèvres|terme_anglais=Labial deformity, lip deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de déformation (signe clinique)|spécialités=__specialty__|modalités=Examen ORL, examen de la bouche, apparence générale|systèmes=ORL, dermatologique|autres_noms=Déformation des lèvres|terme_anglais=Labial deformity, lip deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Déformation des lèvres (signe clinique)"
       ]
@@ -125,29 +128,11 @@
   },
   {
     "vars": {
-      "specialty": "Ophtalmologie, chirurgie plastique",
-      "title": "Déformation palpébrale (signe clinique)"
-    },
-    "__title__": {
-      "create": "{{Article de déformation (signe clinique)|spécialités=__specialty__|systèmes=Ophtalmologique, dermatologique|autres_noms=Déformation de la paupière|terme_anglais=Eyelid deformity, palpebral deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
-      "redirects": [
-        "Déformation de la paupière (signe clinique)"
-      ]
-    },
-    "Gestion:Rédaction/Tâches/1908": {
-      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
-    },
-    "Gestion:Rédaction/Tâches/1909": {
-      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
-    }
-  },
-  {
-    "vars": {
-      "specialty": "Chirurgie maxillo-faciale, ORL",
+      "specialty": "Chirurgie maxillo-faciale, ORL, dentisterie",
       "title": "Déformation de la langue (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de déformation (signe clinique)|spécialités=__specialty__|systèmes=ORL|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de déformation (signe clinique)|modalités=Examen ORL, examen de la bouche|spécialités=__specialty__|systèmes=ORL|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Déformation linguale (signe clinique)"
       ]
@@ -161,11 +146,11 @@
   },
   {
     "vars": {
-      "specialty": "Orthopédie, traumatologie",
+      "specialty": "Orthopédie",
       "title": "Déformation du bras (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de déformation (signe clinique)|spécialités=__specialty__|systèmes=locomoteur|terme_anglais=Arm deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de déformation (signe clinique)|modalités=Examen du membre supérieur, apparence générale, examen traumatologique|spécialités=__specialty__|systèmes=locomoteur|terme_anglais=Arm deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
     "Gestion:Rédaction/Tâches/1912": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
@@ -176,11 +161,11 @@
   },
   {
     "vars": {
-      "specialty": "Orthopédie, traumatologie",
+      "specialty": "Orthopédie",
       "title": "Déformation de l'avant-bras (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de déformation (signe clinique)|spécialités=__specialty__|systèmes=locomoteur|terme_anglais=Forearm deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de déformation (signe clinique)|modalités=Examen du membre supérieur, apparence générale, examen traumatologique|spécialités=__specialty__|systèmes=locomoteur|terme_anglais=Forearm deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
     "Gestion:Rédaction/Tâches/1914": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
@@ -195,7 +180,7 @@
       "title": "Déformation de la main (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de déformation (signe clinique)|snomed_ct_id=299033004|spécialités=__specialty__|systèmes=locomoteur|terme_anglais=Hand deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de déformation (signe clinique)|modalités=Examen du membre supérieur, examen de la main, apparence générale, examen traumatologique|snomed_ct_id=299033004|spécialités=__specialty__|systèmes=locomoteur|terme_anglais=Hand deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
     "Gestion:Rédaction/Tâches/1916": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
@@ -206,11 +191,11 @@
   },
   {
     "vars": {
-      "specialty": "Gynécologie, chirurgie générale",
+      "specialty": "Gynécologie, chirurgie générale, chirurgie plastique",
       "title": "Déformation mammaire (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de déformation (signe clinique)|spécialités=__specialty__|systèmes=reproducteur féminin|autres_noms=Déformation du sein|terme_anglais=Breast deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de déformation (signe clinique)|modalités=Examen du sein, apparence générale|spécialités=__specialty__|systèmes=reproducteur féminin|autres_noms=Déformation du sein|terme_anglais=Breast deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Déformation du sein (signe clinique)"
       ]
@@ -228,7 +213,7 @@
       "title": "Déformation abdominale (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de déformation (signe clinique)|spécialités=__specialty__|systèmes=digestif|terme_anglais=Abdominal deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de déformation (signe clinique)|modalités=Examen de l'abdomen, apparence générale, examen traumatologique|spécialités=__specialty__|systèmes=digestif|terme_anglais=Abdominal deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
     "Gestion:Rédaction/Tâches/1920": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
@@ -239,11 +224,11 @@
   },
   {
     "vars": {
-      "specialty": "Gynécologie, urologie",
+      "specialty": "Gynécologie, urologie, orthopédie",
       "title": "Déformation pelvienne (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de déformation (signe clinique)|autres_noms=Déformation du pelvis|spécialités=__specialty__|systèmes=reproducteur masculin, reproducteur féminin, urinaire|terme_anglais=Pelvic deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de déformation (signe clinique)|modalités=Examen de l'abdomen, examen traumatologique|autres_noms=Déformation du pelvis|spécialités=__specialty__|systèmes=reproducteur masculin, reproducteur féminin, urinaire|terme_anglais=Pelvic deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Déformation du pelvis (signe clinique)"
       ]
@@ -261,7 +246,7 @@
       "title": "Déformation du sacrum (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de déformation (signe clinique)|spécialités=__specialty__|autres_noms=Déformation sacrale|systèmes=locomoteur, neurologique|terme_anglais=Sacral deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de déformation (signe clinique)|modalités=Examen de la colonne dorso-lombaire, examen traumatologique|spécialités=__specialty__|autres_noms=Déformation sacrale|systèmes=locomoteur, neurologique|terme_anglais=Sacral deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Déformation sacrale (signe clinique)"
       ]
@@ -279,7 +264,7 @@
       "title": "Déformation de la fesse (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de déformation (signe clinique)|spécialités=__specialty__|systèmes=locomoteur|terme_anglais=Buttock deformity, gluteal deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de déformation (signe clinique)|modalités=examen traumatologique|spécialités=__specialty__|systèmes=locomoteur|terme_anglais=Buttock deformity, gluteal deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
     "Gestion:Rédaction/Tâches/1926": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
@@ -294,7 +279,7 @@
       "title": "Déformation du pénis (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de déformation (signe clinique)|spécialités=__specialty__|systèmes=reproducteur masculin, urinaire|autres_noms=Déformation pénienne|terme_anglais=Penile deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de déformation (signe clinique)|modalités=examen de l'appareil génital masculin, examen traumatologique|spécialités=__specialty__|systèmes=reproducteur masculin, urinaire|autres_noms=Déformation pénienne|terme_anglais=Penile deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
     "Gestion:Rédaction/Tâches/1928": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
@@ -309,7 +294,7 @@
       "title": "Déformation de la vulve (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de déformation (signe clinique)|spécialités=__specialty__|systèmes=reproducteur féminin|terme_anglais=Vulvar deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de déformation (signe clinique)|modalités=examen gynécologique, examen de la vulve, examen traumatologique|spécialités=__specialty__|systèmes=reproducteur féminin|terme_anglais=Vulvar deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Déformation vulvaire (signe clinique)"
       ]
@@ -327,7 +312,7 @@
       "title": "Déformation testiculaire (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de déformation (signe clinique)|spécialités=__specialty__|autres_noms=Déformation du scrotum|systèmes=reproducteur masculin|terme_anglais=Testicular deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de déformation (signe clinique)|modalités=examen de l'appareil génital masculin, examen traumatologique|spécialités=__specialty__|autres_noms=Déformation du scrotum|systèmes=reproducteur masculin|terme_anglais=Testicular deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Déformation des testicules (signe clinique)",
         "Déformation du scrotum (signe clinique)",
@@ -347,7 +332,7 @@
       "title": "Déformation de la cuisse (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de déformation (signe clinique)|spécialités=__specialty__|systèmes=locomoteur|terme_anglais=Thigh deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de déformation (signe clinique)|modalités=Examen du membre inférieur, examen traumatologique, apparence générale|spécialités=__specialty__|systèmes=locomoteur|terme_anglais=Thigh deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
     "Gestion:Rédaction/Tâches/1934": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
@@ -362,7 +347,7 @@
       "title": "Déformation de la jambe (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de déformation (signe clinique)|spécialités=__specialty__|systèmes=locomoteur|terme_anglais=Leg deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de déformation (signe clinique)|modalités=Examen du membre inférieur, examen traumatologique, apparence générale|spécialités=__specialty__|systèmes=locomoteur|terme_anglais=Leg deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
     "Gestion:Rédaction/Tâches/1936": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
@@ -377,7 +362,7 @@
       "title": "Déformation de l'oeil (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de déformation (signe clinique)|spécialités=__specialty__|systèmes=Visuel|terme_anglais=Eye deformity|autres_noms=Déformation oculaire}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de déformation (signe clinique)|modalités=Examen de l'oeil, examen traumatologique|spécialités=__specialty__|systèmes=Visuel|terme_anglais=Eye deformity|autres_noms=Déformation oculaire}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Déformation oculaire (signe clinique)"
       ]
@@ -391,11 +376,11 @@
   },
   {
     "vars": {
-      "specialty": "Ophtalmologie, ORL, dermatologie",
+      "specialty": "Ophtalmologie, chirurgie plastique",
       "title": "Déformation palpébrale (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de déformation (signe clinique)|spécialités=__specialty__|systèmes=Ophtalmologique, dermatologique|autres_noms=Déformation de la paupière|terme_anglais=Eyelid deformity, palpebral deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de déformation (signe clinique)|modalités=Examen de l'oeil|spécialités=__specialty__|systèmes=Ophtalmologique, dermatologique|autres_noms=Déformation de la paupière|terme_anglais=Eyelid deformity, palpebral deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Déformation de la paupière (signe clinique)"
       ]
@@ -413,7 +398,7 @@
       "title": "Déformation du cou (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de déformation (signe clinique)|spécialités=__specialty__|systèmes=Musculosquelettique, nerveux périphérique, ORL, digestif|terme_anglais=Neck deformity|autres_noms=Déformation cervicale}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de déformation (signe clinique)|modalités=Examen de la colonne cervicale, examen du cou, apparence générale, examen traumatologique|spécialités=__specialty__|systèmes=Musculosquelettique, nerveux périphérique, ORL, digestif|terme_anglais=Neck deformity|autres_noms=Déformation cervicale}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Déformation cervicale (signe clinique)"
       ]
@@ -431,7 +416,7 @@
       "title": "Déformation mandibulaire (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de déformation (signe clinique)|spécialités=__specialty__|systèmes=ORL|terme_anglais=Mandibular deformity, jaw deformity|autres_noms=Déformation de la mâchoire}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de déformation (signe clinique)|modalités=Examen ORL, examen de la bouche, examen traumatologique|spécialités=__specialty__|systèmes=ORL|terme_anglais=Mandibular deformity, jaw deformity|autres_noms=Déformation de la mâchoire}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Déformation de la mâchoire (signe clinique)"
       ]
@@ -449,7 +434,7 @@
       "title": "Déformation de l'épaule (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de déformation (signe clinique)|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Shoulder deformity}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de déformation (signe clinique)|modalités=Examen de l'épaule, examen traumatologique, apparence générale|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Shoulder deformity}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
     "Gestion:Rédaction/Tâches/1946": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
@@ -464,7 +449,7 @@
       "title": "Déformation du coude (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de déformation (signe clinique)|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Elbow deformity|autres_noms=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de déformation (signe clinique)|modalités=Examen du coude, examen traumatologique, apparence générale|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Elbow deformity|autres_noms=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
     "Gestion:Rédaction/Tâches/1948": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
@@ -479,7 +464,7 @@
       "title": "Déformation du poignet (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de déformation (signe clinique)|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Wrist deformity|autres_noms=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de déformation (signe clinique)|modalités=Examen du poignet, examen traumatologique, apparence générale|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Wrist deformity|autres_noms=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
     "Gestion:Rédaction/Tâches/1950": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
@@ -494,7 +479,7 @@
       "title": "Déformation du pouce (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de déformation (signe clinique)|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Thumb deformity|autres_noms=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de déformation (signe clinique)|modalités=Examen du pouce, examen traumatologique, apparence générale|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Thumb deformity|autres_noms=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
     "Gestion:Rédaction/Tâches/1952": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
@@ -509,7 +494,7 @@
       "title": "Déformation d'un doigt (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de déformation (signe clinique)|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Digit deformity|autres_noms=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de déformation (signe clinique)|modalités=Examen du doigt, apparence générale, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Digit deformity|autres_noms=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
     "Gestion:Rédaction/Tâches/1954": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
@@ -524,7 +509,7 @@
       "title": "Déformation dorsale (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de déformation (signe clinique)|spécialités=__specialty__|systèmes=musculosquelettique, nerveux périphérique|terme_anglais=Dorsal deformity|autres_noms=Déformation dorsale}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de déformation (signe clinique)|modalités=Examen de la colonne dorso-lombaire, apparence générale, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique, nerveux périphérique|terme_anglais=Dorsal deformity|autres_noms=Déformation dorsale}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
     "Gestion:Rédaction/Tâches/1956": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
@@ -539,7 +524,7 @@
       "title": "Déformation lombaire (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de déformation (signe clinique)|spécialités=__specialty__|systèmes=musculosquelettique, nerveux périphérique|terme_anglais=Lumbar deformity|autres_noms=Déformation lombaire}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de déformation (signe clinique)|modalités=Examen de la colonne dorso-lombaire, apparence générale, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique, nerveux périphérique|terme_anglais=Lumbar deformity|autres_noms=Déformation lombaire}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Déformation du dos (signe clinique)"
       ]
@@ -557,7 +542,7 @@
       "title": "Déformation de la hanche (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de déformation (signe clinique)|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Hip deformity|autres_noms=Déformation de la hanche}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de déformation (signe clinique)|modalités=Examen de la hanche, apparence générale, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Hip deformity|autres_noms=Déformation de la hanche}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
     "Gestion:Rédaction/Tâches/1960": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
@@ -572,7 +557,7 @@
       "title": "Déformation du genou (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de déformation (signe clinique)|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Knee deformity|autres_noms=Déformation du genou}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de déformation (signe clinique)|modalités=Examen du genou, apparence générale, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Knee deformity|autres_noms=Déformation du genou}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
     "Gestion:Rédaction/Tâches/1962": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
@@ -587,7 +572,7 @@
       "title": "Déformation de la cheville (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de déformation (signe clinique)|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Ankle deformity|autres_noms=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de déformation (signe clinique)|modalités=Examen de la cheville, apparence générale, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Ankle deformity|autres_noms=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
     "Gestion:Rédaction/Tâches/1964": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
@@ -602,7 +587,7 @@
       "title": "Déformation du pied (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de déformation (signe clinique)|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Foot deformity|autres_noms=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de déformation (signe clinique)|modalités=Examen du pied, apparence générale, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Foot deformity|autres_noms=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
     "Gestion:Rédaction/Tâches/1966": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
@@ -617,7 +602,7 @@
       "title": "Déformation du talon (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de déformation (signe clinique)|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Heel deformity|autres_noms=Déformation du talon}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de déformation (signe clinique)|modalités=Examen du pied, apparence générale, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Heel deformity|autres_noms=Déformation du talon}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
     "Gestion:Rédaction/Tâches/1968": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
@@ -632,7 +617,7 @@
       "title": "Déformation des orteils (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de déformation (signe clinique)|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Toe deformity|autres_noms=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de déformation (signe clinique)|modalités=Examen du pied, apparence générale, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Toe deformity|autres_noms=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
     "Gestion:Rédaction/Tâches/1970": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
@@ -647,7 +632,7 @@
       "title": "Déformation de l'hallux (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de déformation (signe clinique)|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Hallux deformity|autres_noms=Déformation du gros orteil}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de déformation (signe clinique)|modalités=Examen du pied, apparence générale, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Hallux deformity|autres_noms=Déformation du gros orteil}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Déformation du gros orteil (signe clinique)"
       ]
