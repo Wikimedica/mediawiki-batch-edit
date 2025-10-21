@@ -110,6 +110,24 @@
   },
   {
     "vars": {
+      "specialty": "Chirurgie maxillo-faciale, ORL, dentisterie",
+      "title": "Déformation du pharynx (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article de déformation (signe clinique)|spécialités=__specialty__|autres_noms=Déformation pharyngée|modalités=Examen ORL, examen de la bouche|systèmes=ORL|terme_anglais=Pharynx deformity|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "redirects": [
+        "Déformation de la gorge (signe clinique)"
+      ]
+    },
+    "Gestion:Rédaction/Tâches/2076": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/2077": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
       "specialty": "Chirurgie maxillo-faciale, chirurgie plastique, ORL, dentisterie, dermatologie",
       "title": "Déformation labiale (signe clinique)"
     },
