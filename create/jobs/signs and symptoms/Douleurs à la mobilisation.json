@@ -1,0 +1,277 @@
+Redirections:
+* Douleur aux mouvements
+[
+  {
+    "vars": {
+      "specialty": "Ophtalmologie",
+      "title": "Douleur à la mobilisation de l'oeil (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article de douleur à la mobilisation (signe clinique)|modalités=Examen de l'oeil, examen traumatologique|spécialités=__specialty__|systèmes=Visuel|terme_anglais=Eye deformity|autres_noms=Déformation oculaire}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "redirects": [
+        "Douleur à la mobilisation oculaire (signe clinique)"
+      ]
+    },
+    "Gestion:Rédaction/Tâches/1938": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/1939": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Ophtalmologie, chirurgie plastique",
+      "title": "Douleur à la mobilisation palpébrale (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article de douleur à la mobilisation (signe clinique)|modalités=Examen de l'oeil|spécialités=__specialty__|systèmes=Ophtalmologique, dermatologique|autres_noms=Déformation de la paupière|terme_anglais=Eyelid deformity, palpebral deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "redirects": [
+        "Douleur à la mobilisation de la paupière (signe clinique)"
+      ]
+    },
+    "Gestion:Rédaction/Tâches/1940": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/1941": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Orthopédie, neurochirurgie, rhumatologie, ORL, chirurgie générale",
+      "title": "Douleur à la mobilisation du cou (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article de douleur à la mobilisation (signe clinique)|modalités=Examen de la colonne cervicale, examen du cou, apparence générale, examen traumatologique|spécialités=__specialty__|systèmes=Musculosquelettique, nerveux périphérique, ORL, digestif|terme_anglais=Neck deformity|autres_noms=Déformation cervicale}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "redirects": [
+        "Douleur à la mobilisation cervicale (signe clinique)"
+      ]
+    },
+    "Gestion:Rédaction/Tâches/1942": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/1943": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Chirurgie maxillo-faciale, dentisterie",
+      "title": "Douleur à la mobilisation mandibulaire (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article de douleur à la mobilisation (signe clinique)|modalités=Examen ORL, examen de la bouche, examen traumatologique|spécialités=__specialty__|systèmes=ORL|terme_anglais=Mandibular deformity, jaw deformity|autres_noms=Déformation de la mâchoire}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "redirects": [
+        "Douleur à la mobilisation de la mâchoire (signe clinique)"
+      ]
+    },
+    "Gestion:Rédaction/Tâches/1944": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/1945": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Orthopédie, rhumatologie",
+      "title": "Douleur à la mobilisation de l'épaule (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article de douleur à la mobilisation (signe clinique)|modalités=Examen de l'épaule, examen traumatologique, apparence générale|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Shoulder deformity}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+    },
+    "Gestion:Rédaction/Tâches/1946": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/1947": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Orthopédie",
+      "title": "Douleur à la mobilisation du coude (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article de douleur à la mobilisation (signe clinique)|modalités=Examen du coude, examen traumatologique, apparence générale|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Elbow deformity|autres_noms=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+    },
+    "Gestion:Rédaction/Tâches/1948": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/1949": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Orthopédie, rhumatologie",
+      "title": "Douleur à la mobilisation du poignet (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article de douleur à la mobilisation (signe clinique)|modalités=Examen du poignet, examen traumatologique, apparence générale|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Wrist deformity|autres_noms=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+    },
+    "Gestion:Rédaction/Tâches/1950": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/1951": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Orthopédie, chirurgie plastique, rhumatologie",
+      "title": "Douleur à la mobilisation du pouce (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article de douleur à la mobilisation (signe clinique)|modalités=Examen du pouce, examen traumatologique, apparence générale|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Thumb deformity|autres_noms=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+    },
+    "Gestion:Rédaction/Tâches/1952": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/1953": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Orthopédie, chirurgie plastique, rhumatologie",
+      "title": "Douleur à la mobilisation d'un doigt (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article de douleur à la mobilisation (signe clinique)|modalités=Examen du doigt, apparence générale, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Digit deformity|autres_noms=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+    },
+    "Gestion:Rédaction/Tâches/1954": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/1955": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Orthopédie, rhumatologie, neurochirurgie",
+      "title": "Douleur à la mobilisation dorsale (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article de douleur à la mobilisation (signe clinique)|modalités=Examen de la colonne dorso-lombaire, apparence générale, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique, nerveux périphérique|terme_anglais=Dorsal deformity|autres_noms=Déformation dorsale}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+    },
+    "Gestion:Rédaction/Tâches/1956": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/1957": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Orthopédie, rhumatologie, neurochirurgie",
+      "title": "Douleur à la mobilisation lombaire (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article de douleur à la mobilisation (signe clinique)|modalités=Examen de la colonne dorso-lombaire, apparence générale, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique, nerveux périphérique|terme_anglais=Lumbar deformity|autres_noms=Déformation lombaire}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "redirects": [
+        "Douleur à la mobilisation du dos (signe clinique)"
+      ]
+    },
+    "Gestion:Rédaction/Tâches/1958": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/1959": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Orthopédie, rhumatologie",
+      "title": "Douleur à la mobilisation de la hanche (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article de douleur à la mobilisation (signe clinique)|modalités=Examen de la hanche, apparence générale, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Hip deformity|autres_noms=Déformation de la hanche}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+    },
+    "Gestion:Rédaction/Tâches/1960": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/1961": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Orthopédie, rhumatologie",
+      "title": "Douleur à la mobilisation du genou (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article de douleur à la mobilisation (signe clinique)|modalités=Examen du genou, apparence générale, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Knee deformity|autres_noms=Déformation du genou}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+    },
+    "Gestion:Rédaction/Tâches/1962": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/1963": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Orthopédie, rhumatologie",
+      "title": "Douleur à la mobilisation de la cheville (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article de douleur à la mobilisation (signe clinique)|modalités=Examen de la cheville, apparence générale, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Ankle deformity|autres_noms=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+    },
+    "Gestion:Rédaction/Tâches/1964": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/1965": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Orthopédie, rhumatologie",
+      "title": "Douleur à la mobilisation du pied (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article de douleur à la mobilisation (signe clinique)|modalités=Examen du pied, apparence générale, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Foot deformity|autres_noms=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+    },
+    "Gestion:Rédaction/Tâches/1966": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/1967": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Orthopédie, rhumatologie",
+      "title": "Douleur à la mobilisation des orteils (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article de douleur à la mobilisation (signe clinique)|modalités=Examen du pied, apparence générale, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Toe deformity|autres_noms=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+    },
+    "Gestion:Rédaction/Tâches/1970": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/1971": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Orthopédie, rhumatologie",
+      "title": "Douleur à la mobilisation de l'hallux (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article de douleur à la mobilisation (signe clinique)|modalités=Examen du pied, apparence générale, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Hallux deformity|autres_noms=Déformation du gros orteil}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "redirects": [
+        "Douleur à la mobilisation du gros orteil (signe clinique)"
+      ]
+    },
+    "Gestion:Rédaction/Tâches/1972": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/1973": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  }
+]

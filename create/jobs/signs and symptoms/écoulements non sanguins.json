@@ -1,0 +1,168 @@
+[
+  {
+      "vars": {
+        "specialty": "ORL, infectiologie, neurologie, neurochirurgie",
+        "title": "Otorrhée (signe clinique)"
+      },
+      "__title__": {
+        "create": "{{Article d'écoulement (signe clinique)|modalités=Examen ORL, examen traumatologique|spécialités=__specialty__|systèmes=Auditif|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+        "redirects": [
+          "Écoulement de l'oreille (signe clinique)",
+          "Otorrhée"
+        ]
+      },
+      "Gestion:Rédaction/Tâches/1910": {
+        "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+      },
+      "Gestion:Rédaction/Tâches/1911": {
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+      }
+  },
+  {
+      "vars": {
+        "specialty": "ORL, infectiologie, neurologie, neurochirurgie",
+        "title": "Rhinorhée (signe clinique)"
+      },
+      "__title__": {
+        "create": "{{Article d'écoulement (signe clinique)|modalités=Examen ORL, examen du nez, examen traumatologique|spécialités=__specialty__|systèmes=ORL|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+        "redirects": [
+          "Écoulement du nez (signe clinique)",
+          "Rhinorrhée"
+        ]
+      },
+      "Gestion:Rédaction/Tâches/1910": {
+        "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+      },
+      "Gestion:Rédaction/Tâches/1911": {
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+      }
+    },
+  {
+      "vars": {
+        "specialty": "Ophtalmologie, infectiologie",
+        "title": "Écoulement oculaire (signe clinique)"
+      },
+      "__title__": {
+        "create": "{{Article d'écoulement (signe clinique)|modalités=Examen de l'oeil|spécialités=__specialty__|systèmes=ORL|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+        "redirects": [
+          "Écoulement de l'oeil (signe clinique)",
+          "Larmoiement (signe clinique)"
+        ]
+      },
+      "Gestion:Rédaction/Tâches/1910": {
+        "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+      },
+      "Gestion:Rédaction/Tâches/1911": {
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+      }
+    },
+    {
+      "vars": {
+        "specialty": "Pneumologie, chirurgie thoracique, infectiologie",
+        "title": "Éxpectorations (signe clinique)"
+      },
+      "__title__": {
+        "create": "{{Article d'écoulement (signe clinique)|modalités=Examen pulmonaire|spécialités=__specialty__|systèmes=ORL|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+        "redirects": [
+          "Crachats (signe clinique)",
+          "Expectorations",
+          "Crachats"
+        ]
+      },
+      "Gestion:Rédaction/Tâches/1910": {
+        "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+      },
+      "Gestion:Rédaction/Tâches/1911": {
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+      }
+    },
+    {
+      "vars": {
+        "specialty": "Gynécologie, infectiologie",
+        "title": "Écoulement endocervical (signe clinique)"
+      },
+      "__title__": {
+        "create": "{{Article d'écoulement (signe clinique)|modalités=Examen gynécologique|spécialités=__specialty__|systèmes=ORL|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+        "redirects": [
+          "Exsudat endocervical (signe clinique)"
+        ]
+      },
+      "Gestion:Rédaction/Tâches/1910": {
+        "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+      },
+      "Gestion:Rédaction/Tâches/1911": {
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+      }
+    },
+    {
+      "vars": {
+        "specialty": "Gynécologie, infectiologie",
+        "title": "Écoulement vaginal (signe clinique)"
+      },
+      "__title__": {
+        "create": "{{Article d'écoulement (signe clinique)|modalités=Examen gynécologique, examen de la vulve|spécialités=__specialty__|systèmes=ORL|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      },
+      "Gestion:Rédaction/Tâches/1910": {
+        "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+      },
+      "Gestion:Rédaction/Tâches/1911": {
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+      }
+    },
+    {
+      "vars": {
+        "specialty": "Gastro-entérologie, chirurgie générale, dermatologie, infectiologie",
+        "title": "Écoulement ano-rectal (signe clinique)"
+      },
+      "__title__": {
+        "create": "{{Article d'écoulement (signe clinique)|modalités=Examen de l'abdomen, toucher rectal|spécialités=__specialty__|systèmes=ORL|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+        "redirects": [
+          "Écoulement anal (signe clinique)",
+          "Écoulement rectal (signe clinique)"
+        ]
+      },
+      "Gestion:Rédaction/Tâches/1910": {
+        "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+      },
+      "Gestion:Rédaction/Tâches/1911": {
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+      }
+    },
+    {
+      "vars": {
+        "specialty": "Gynécologie, chirurgie générale",
+        "title": "Écoulement mammaire (signe clinique)"
+      },
+      "__title__": {
+        "create": "{{Article d'écoulement (signe clinique)|modalités=Examen clinique des seins|spécialités=__specialty__|systèmes=ORL|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+        "redirects": [
+          "Écoulement des seins (signe clinique)"
+        ]
+      },
+      "Gestion:Rédaction/Tâches/1910": {
+        "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+      },
+      "Gestion:Rédaction/Tâches/1911": {
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+      }
+    },
+    {
+      "vars": {
+        "specialty": "Dermatologie, infectiologie",
+        "title": "Écoulement cutané (signe clinique)"
+      },
+      "__title__": {
+        "create": "{{Article d'écoulement (signe clinique)|modalités=Examen dermatologique, examen du membre supérieur, examen du membre inférieur, examen de la main, examen du doigt, examen du pied|spécialités=__specialty__|systèmes=ORL|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+        "redirects": [
+          "Éxsudat cutané (signe clinique)",
+          "Suintement cutané (signe clinique)"
+        ]
+      },
+      "Gestion:Rédaction/Tâches/1910": {
+        "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+      },
+      "Gestion:Rédaction/Tâches/1911": {
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+      }
+    }
+]

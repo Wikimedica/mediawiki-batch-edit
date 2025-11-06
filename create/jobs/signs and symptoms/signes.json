@@ -1,0 +1,57 @@
+[
+    {
+        "vars": {
+          "specialty": "Dermatologie",
+          "title": "Douleur cutanée (symptôme)"
+        },
+        "__title__": {
+          "create": "{{Article d'érythème (signe clinique)|modalités=Examen de l'abdomen, examen pulmonaire, examen des aires ganglionnaires|spécialités=__specialty__|systèmes=Auditif|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+          "redirects": [
+            "Douleur cutanée"
+          ]
+        },
+        "Gestion:Rédaction/Tâches/1910": {
+          "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/1911": {
+          "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+          "specialty": "Rhumatologie, soins palliatifs",
+          "title": "Douleur généralisée (symptôme)"
+        },
+        "__title__": {
+          "create": "{{Article d'érythème (signe clinique)|modalités=Examen de l'abdomen, examen pulmonaire, examen des aires ganglionnaires|spécialités=__specialty__|systèmes=Auditif|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+          "redirects": [
+            "Douleurs généralisées"
+          ]
+        },
+        "Gestion:Rédaction/Tâches/1910": {
+          "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/1911": {
+          "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Rhumatologie,",
+            "title": "Myalgies généralisées (symptôme)"
+        },
+        "__title__": {
+            "create": "{{Article d'érythème (signe clinique)|modalités=Examen de l'abdomen, examen pulmonaire, examen des aires ganglionnaires|spécialités=__specialty__|systèmes=Auditif|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+            "Myalgies",
+            "Myalgies (symptôme)",
+            ]
+        },
+        "Gestion:Rédaction/Tâches/1910": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/1911": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    }
+]

@@ -1,0 +1,1157 @@
+[
+    {
+        "vars": {
+            "specialty": "Neurochirurgie, pédiatrie, chirurgie maxillo-faciale",
+            "title": "Tuméfaction du crâne (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|modalités=Apparence générale, examen neurologique, examen traumatologique|spécialités=__specialty__|systèmes=Neurologique, musculosquelettique|autres_noms=Oedème du crâne, Voussure du crâne, Masse du crâne|terme_anglais=Skull swelling|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Tuméfaction crânienne (signe clinique)",
+                "Tuméfaction de la tête (signe clinique)",
+                "Oedème du crâne (signe clinique)",
+                "Masse du crâne (signe clinique)",
+                "Voussure du crâne (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/1974": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/1975": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "ORL, chirurgie plastique, dermatologie",
+            "title": "Tuméfaction de l'oreille (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|modalités=Examen ORL, examen traumatologique|spécialités=__specialty__|systèmes=ORL, dermatologique|autres_noms=Oedème de l'oreille, Voussure de l'oreille, Masse de l'oreille|terme_anglais=Ear swelling|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Tuméfaction auriculaire (signe clinique)",
+                "Oedème de l'oreille (signe clinique)",
+                "Masse de l'oreille (signe clinique)",
+                "Voussure de l'oreille (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/1976": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/1977": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "ORL, dentisterie, chirurgie maxillo-faciale",
+            "title": "Tuméfaction de la gencive (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|modalités=Examen ORL, examen de la bouche, examen traumatologique|spécialités=__specialty__|systèmes=ORL|autres_noms=Oedème de la gencivce, Voussure de la gencive, Masse de la gencive|terme_anglais=Gum swelling|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Tuméfaction gingivale (signe clinique)",
+                "Oedème de la gencive (signe clinique)",
+                "Masse des la gencive (signe clinique)",
+                "Voussure de la gencive (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/1978": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/1979": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "ORL, chirurgie plastique",
+            "title": "Tuméfaction du nez (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|modalités=Examen ORL, examen du nez, examen traumatologique|terme_anglais=Nose swelling249357006|autres_noms=Oedème du nez, Voussure du nez, Masse du nez|spécialités=__specialty__|systèmes=ORL|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Tuméfaction nasale (signe clinique)",
+                "Oedème du nez (signe clinique)",
+                "Masse du nez (signe clinique)",
+                "Voussure du nez (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/1980": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/1981": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Chirurgie maxillo-faciale, ORL, dentisterie, oncologie",
+            "title": "Tuméfaction du pharynx (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|modalités=Apparence générale, examen ORL, examen traumatologique|spécialités=__specialty__|systèmes=ORL, dermatologique|autres_noms=Oedème de la gorge, Voussure de la gorge, Masse de la gorge|terme_anglais=Throat swelling|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Tuméfaction de la gorge (signe clinique)",
+                "Oedème de la gorge (signe clinique)",
+                "Oedème du pharynx (signe clinique)",
+                "Masse de la gorge (signe clinique)",
+                "Voussure de la gorge (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/1982": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/1983": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Chirurgie maxillo-faciale, ORL, chirurgie plastique, oncologie",
+            "title": "Tuméfaction du visage (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|modalités=Apparence générale, examen ORL examen traumatologique|spécialités=__specialty__|systèmes=ORL, dermatologique|autres_noms=Oedème du visage, Voussure du visage, Masse du visage|terme_anglais=Face swelling|snomed_ct_id=278528006}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Tuméfaction faciale (signe clinique)",
+                "Oedème du visage (signe clinique)",
+                "Masse du visage (signe clinique)",
+                "Voussure du visage (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/1984": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/1985": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Chirurgie maxillo-faciale, ORL, dentisterie, oncologie",
+            "title": "Tuméfaction de la bouche (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|spécialités=__specialty__|approches_cliniques=Affections buccales (approche clinique)|autres_noms=Oedème de la bouche, Voussure de la bouche, Masse de la bouche|modalités=Examen ORL, examen de la bouche|systèmes=ORL|terme_anglais=Mouth swelling|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Tuméfaction buccale (signe clinique)",
+                "Oedème de la bouche (signe clinique)",
+                "Masse de la bouche (signe clinique)",
+                "Voussure de la bouche (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/1986": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/1987": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Chirurgie maxillo-faciale, chirurgie plastique, ORL, dentisterie, dermatologie",
+            "title": "Tuméfaction labiale (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|approches_cliniques=Affections buccales (approche clinique)|spécialités=__specialty__|modalités=Examen ORL, examen de la bouche, apparence générale|systèmes=ORL, dermatologique|autres_noms=Oedème labiale, Voussure labiale, Masse labiale|terme_anglais=Labiale swelling|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Tuméfaction des lèvres (signe clinique)",
+                "Oedème labiale (signe clinique)",
+                "Masse labiale (signe clinique)",
+                "Voussure labiale (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/1988": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/1989": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Chirurgie maxillo-faciale, ORL, dentisterie, oncologie",
+            "title": "Tuméfaction de la langue (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|approches_cliniques=Affections buccales (approche clinique)|modalités=Examen ORL, examen de la bouche|spécialités=__specialty__|systèmes=ORL|autres_noms=Oedème de la langue, Voussure de la langue, Masse de la langue|terme_anglais=Tongue swelling|snomed_ct_id=421262002}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Tuméfaction linguale (signe clinique)",
+                "Oedème de la langue (signe clinique)",
+                "Masse de la langue (signe clinique)",
+                "Voussure de la langue (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/1990": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/1991": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie",
+            "title": "Tuméfaction du bras (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|modalités=Examen du membre supérieur, apparence générale, examen traumatologique|spécialités=__specialty__|systèmes=locomoteur|terme_anglais=Arm swelling|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Oedème du bras (signe clinique)",
+                "Masse du bras (signe clinique)",
+                "Voussure du bras (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/1992": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/1993": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie",
+            "title": "Tuméfaction de l'avant-bras (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|modalités=Examen du membre supérieur, apparence générale, examen traumatologique|spécialités=__specialty__|systèmes=locomoteur|terme_anglais=Forearm swelling|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Oedème de l'avant-bras (signe clinique)",
+                "Masse de l'avant-bras (signe clinique)",
+                "Voussure de l'avant-bras (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/1994": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/1995": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie, chirurgie plastique",
+            "title": "Tuméfaction de la main (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|modalités=Examen du membre supérieur, examen de la main, apparence générale, examen traumatologique|snomed_ct_id=299037003|spécialités=__specialty__|systèmes=locomoteur|terme_anglais=Hand swelling}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Oedème de la main (signe clinique)",
+                "Masse de la main (signe clinique)",
+                "Voussure de la main (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/1996": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/1997": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie, chirurgie thoracique, pneumologie",
+            "title": "Tuméfaction du thorax (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|modalités=Examen pulmonaire, apparence générale, examen traumatologique299033004|spécialités=__specialty__|systèmes=locomoteur|terme_anglais=Chest swelling|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Oedème du thorax (signe clinique)",
+                "Masse du thorax (signe clinique)",
+                "Voussure du thorax (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/1998": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/1999": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Gynécologie, chirurgie générale, chirurgie plastique, oncologie",
+            "title": "Tuméfaction mammaire (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|approches_cliniques=Masse mammaire (approche clinique)|modalités=Examen du sein, apparence générale|spécialités=__specialty__|systèmes=reproducteur féminin|autres_noms=Oedème mammaire, Voussure mammaire, Masse mammaire|terme_anglais=Breast swelling|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Tuméfaction du sein (signe clinique)",
+                "Oedème mammaire (signe clinique)",
+                "Masse mammaire (signe clinique)",
+                "Voussure mammaire (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2000": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2001": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Dermatologie, chirurgie générale, gynécologie, oncologie",
+            "title": "Adénopathie axillaire (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|approches_cliniques=Lymphadénopathies (approche clinique)|modalités=Examen des aires ganglionnaires, examen clinique des seins|spécialités=__specialty__|systèmes=immunitaire|terme_anglais=axillary lymphadenopathy|snomed_ct_id=127189005}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Adénopathies axillaires (signe clinique)",
+                "Tuméfaction axillaire (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2002": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Symptôme|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2003": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Symptôme|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Gastro-entérologie, chirurgie générale, pneumologie, pédiatrie",
+            "title": "Tuméfaction de l'hypochondre droit (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|approches_cliniques=Masse abdominale ou pelvienne (approche clinique)|autres_noms=Oedème de l'hypochondre droit, Masse de l'hypochondre droit, Voussure de l'hypochondre droit|spécialités=__specialty__|systèmes=digestif|terme_anglais=Right upper quadrant swelling|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Tuméfaction de l'HCD (signe clinique)",
+                "Tuméfaction du QSD (signe clinique)",
+                "Tuméfaction du quadrant supérieur droit (signe clinique)",
+                "Oedème de l'hypochondre droit (signe clinique)",
+                "Masse de l'hypochondre droit (signe clinique)",
+                "Voussure de l'hypochondre droit (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2004": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Symptôme|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2005": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Symptôme|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Gastro-entérologie, chirurgie générale, urologie, pédiatrie",
+            "title": "Tuméfaction du flanc droit (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|approches_cliniques=Masse abdominale ou pelvienne (approche clinique)|autres_noms=Oedème du flanc droit, Masse du flanc droit, Voussure du flanc droit|spécialités=__specialty__|systèmes=digestif, urinaire|terme_anglais=Right flank swelling1119217009|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Oedème du flanc droit (signe clinique)",
+                "Masse du flanc droit (signe clinique)",
+                "Voussure du flanc droit (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2006": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Symptôme|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2007": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Symptôme|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Gynécologie, chirurgie générale, urologie, pédiatrie",
+            "title": "Tuméfaction de la fosse iliaque droite (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|approches_cliniques=Masse abdominale ou pelvienne (approche clinique)|autres_noms=Oedème de la fosse iliaque droite, Masse de la fosse iliaque droite, Voussure de la fosse iliaque droite|spécialités=__specialty__|systèmes=digestif, reproducteur masculin, reproducteur féminin|terme_anglais=Right iliac fossa swelling|snomed_ct_id=162051008}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Tuméfaction de la FID (signe clinique)",
+                "Tuméfaction du QID (signe clinique)",
+                "Tuméfaction du quadrant inférieur droit (signe clinique)",
+                "Oedème de la fosse iliaque droite (signe clinique)",
+                "Masse de la fosse iliaque droite (signe clinique)",
+                "Voussure de la fosse iliaque droite (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2008": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Symptôme|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2009": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Symptôme|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Gastro-entérologie, chirurgie générale, pédiatrie",
+            "title": "Tuméfaction épigastrique (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|approches_cliniques=Masse abdominale ou pelvienne (approche clinique)|autres_noms=Oedème épigastrique, Masse épigastrique, Voussure épigastrique|spécialités=__specialty__|systèmes=digestif|terme_anglais=Epigastric swelling|snomed_ct_id=79922009}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Tuméfaction de l'épigastre (signe clinique)",
+                "Oedème épigastrique (signe clinique)",
+                "Masse épigastrique (signe clinique)",
+                "Voussure épigastrique (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2010": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Symptôme|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2011": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Symptôme|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Gastro-entérologie, chirurgie générale, pédiatrie",
+            "title": "Tuméfaction péri-ombilicale (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|approches_cliniques=Masse abdominale ou pelvienne (approche clinique)|autres_noms=Oedème péri-ombilicale, Masse péri-ombilicale, Voussure péri-ombilicale|spécialités=__specialty__|systèmes=digestif|terme_anglais=Periumbilical swelling|snomed_ct_id=443503005}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Tuméfaction ombilicale (signe clinique)",
+                "Oedème péri-ombilicale (signe clinique)",
+                "Masse péri-ombilicale (signe clinique)",
+                "Voussure péri-ombilicale (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2012": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Symptôme|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2013": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Symptôme|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Gynécologie, urologie, pédiatrie",
+            "title": "Tuméfaction sus-pubienne (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|approches_cliniques=Masse abdominale ou pelvienne (approche clinique)|autres_noms=Oedème sus-pubien, Masse sus-pubienne, Voussure sus-pubienne|spécialités=__specialty__|systèmes=reproducteur féminin, reproducteur masculin, urinaire|terme_anglais=Suprapublic swelling|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Tuméfaction de l'hypogastre (signe clinique)",
+                "Tuméfaction hypogastrique (signe clinique)",
+                "Oedème sus-pubien (signe clinique)",
+                "Masse sus-pubienne (signe clinique)",
+                "Voussure sus-pubienne (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2014": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Symptôme|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2015": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Symptôme|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Gastro-entérologie, chirurgie générale, pneumologie",
+            "title": "Tuméfaction de l'hypochondre gauche (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|approches_cliniques=Masse abdominale ou pelvienne (approche clinique)|autres_noms=Oedème de l'hypochondre gauche, Masse de l'hypochondre gauche, Voussure de l'hypochondre gauche|spécialités=__specialty__|systèmes=digestif|terme_anglais=Left upper quadrant swelling|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Tuméfaction de l'HCG (signe clinique)",
+                "Tuméfaction du QSG (signe clinique)",
+                "Tuméfaction du quadrant supérieur gauche (signe clinique)",
+                "Oedème de l'hypochondre gauche (signe clinique)",
+                "Masse de l'hypochondre gauche (signe clinique)",
+                "Voussure de l'hypochondre gauche (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2016": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Symptôme|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2017": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Symptôme|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Gastro-entérologie, chirurgie générale, gastro-entérologie, pédiatrie",
+            "title": "Tuméfaction du flanc gauche (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|approches_cliniques=Masse abdominale ou pelvienne (approche clinique)|autres_noms=Oedème du flanc gauche, Masse du flanc gauche, Voussure du flanc gauche|spécialités=__specialty__|systèmes=digestif, urinaire|terme_anglais=Left flank swelling1119218004|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Oedème du flanc gauche (signe clinique)",
+                "Masse du flanc gauche (signe clinique)",
+                "Voussure du flanc gauche (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2018": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Symptôme|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2019": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Symptôme|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Gynécologie, chirurgie générale, gastro-entérologie, pédiatrie",
+            "title": "Tuméfaction de la fosse iliaque gauche (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|approches_cliniques=Masse abdominale ou pelvienne (approche clinique)|autres_noms=Oedème de la fosse iliaque gauche, Masse de la fosse iliaque gauche, Voussure de la fosse iliaque gauche|spécialités=__specialty__|systèmes=digestif, reproducteur masculin, reproducteur féminin|terme_anglais=Left iliac fossa swelling|snomed_ct_id=162052001}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Tuméfaction de la FIG (signe clinique)",
+                "Tuméfaction du QIG (signe clinique)",
+                "Tuméfaction du quadrant inférieur gauche (signe clinique)",
+                "Oedème de la fosse iliaque gauche (signe clinique)",
+                "Masse de la fosse iliaque gauche (signe clinique)",
+                "Voussure de la fosse iliaque gauche (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2020": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Symptôme|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2021": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Symptôme|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Gynécologie, urologie, orthopédie",
+            "title": "Tuméfaction pelvienne (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|approches_cliniques=Masse abdominale ou pelvienne (approche clinique)|autres_noms=Oedème pelvienne, Masse pelvienne, Voussure pelvienne|modalités=Examen de l'abdomen, examen traumatologique|spécialités=__specialty__|systèmes=reproducteur masculin, reproducteur féminin, urinaire|terme_anglais=Pelvic swelling|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Tuméfaction du pelvis (signe clinique)",
+                "Oedème pelvienne (signe clinique)",
+                "Masse pelvienne (signe clinique)",
+                "Voussure pelvienne (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2022": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2023": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie, neurochirurgie, rhumatologie",
+            "title": "Tuméfaction du sacrum (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|modalités=Examen de la colonne dorso-lombaire, examen traumatologique|spécialités=__specialty__|autres_noms=Masse sacrale|systèmes=locomoteur, neurologique|terme_anglais=Sacrum swelling|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Tuméfaction sacrale (signe clinique)",
+                "Oedème du sacrum (signe clinique)",
+                "Masse du sacrum (signe clinique)",
+                "Voussure du sacrum (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2024": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2025": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Chirurgie générale, urologie, oncologie, gynécologie",
+            "title": "Adénopathie inguinale (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|spécialités=__specialty__|approches_cliniques=Lymphadénopathies (approche clinique)|modalités=Examen des aires ganglionnaires, examen de l'appareil génital masculin, examen gynécologique|systèmes=immunitaire|terme_anglais=inguinal lymphadenopathy|snomed_ct_id=127199000}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Adénopathies inguinales (signe clinique)",
+                "Tuméfaction inguinale (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2026": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Symptôme|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2027": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Symptôme|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie",
+            "title": "Tuméfaction de la fesse (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|modalités=examen traumatologique|spécialités=__specialty__|systèmes=locomoteur|terme_anglais=Fesse swelling|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Oedème de la fesse (signe clinique)",
+                "Masse de la fesse (signe clinique)",
+                "Voussure de la fesse (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2028": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2029": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Urologie",
+            "title": "Tuméfaction du pénis (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|modalités=examen de l'appareil génital masculin, examen traumatologique|spécialités=__specialty__|systèmes=reproducteur masculin, urinaire|autres_noms=Masse pénienne|terme_anglais=Penis swelling|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Oedème du pénis (signe clinique)",
+                "Masse du pénis (signe clinique)",
+                "Voussure du pénis (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2030": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2031": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Gynécologie",
+            "title": "Tuméfaction de la vulve (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|modalités=examen gynécologique, examen de la vulve, examen traumatologique|spécialités=__specialty__|systèmes=reproducteur féminin|terme_anglais=Vulva swelling|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Tuméfaction vulvaire (signe clinique)",
+                "Oedème de la vulve (signe clinique)",
+                "Masse de la vulve (signe clinique)",
+                "Voussure de la vulve (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2032": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2033": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Urologie",
+            "title": "Tuméfaction testiculaire (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|modalités=examen de l'appareil génital masculin, examen traumatologique|spécialités=__specialty__|autres_noms=Masse testiculaire, oedème du scrotum|systèmes=reproducteur masculin|terme_anglais=Testicular swelling|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Tuméfaction des testicules (signe clinique)",
+                "Tuméfaction du scrotum (signe clinique)",
+                "Tuméfaction du testicule (signe clinique)",
+                "Oedème testiculaire (signe clinique)",
+                "Masse testiculaire (signe clinique)",
+                "Voussure testiculaire (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2034": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2035": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie, chirurgie vasculaire, hématologie",
+            "title": "Tuméfaction de la cuisse (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|modalités=Examen du membre inférieur, examen traumatologique, apparence générale|spécialités=__specialty__|systèmes=locomoteur|terme_anglais=Cuisse swelling|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Oedème de la cuisse (signe clinique)",
+                "Masse de la cuisse (signe clinique)",
+                "Voussure de la cuisse (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2036": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2037": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie, chirurgie vasculaire, hématologie",
+            "title": "Tuméfaction de la jambe (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|modalités=Examen du membre inférieur, examen traumatologique, apparence générale|spécialités=__specialty__|systèmes=locomoteur|terme_anglais=Jambe swelling|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Oedème de la jambe (signe clinique)",
+                "Masse de la jambe (signe clinique)",
+                "Voussure de la jambe (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2038": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2039": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Ophtalmologie",
+            "title": "Tuméfaction de l'oeil (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|modalités=Examen de l'oeil, examen traumatologique|spécialités=__specialty__|systèmes=Ophtalmologique|terme_anglais=Eye swelling|autres_noms=Oedème oculaire|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Oedème de l'oeil (signe clinique)",
+                "Masse de l'oeil (signe clinique)",
+                "Voussure de l'oeil (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2040": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2041": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Ophtalmologie, chirurgie plastique",
+            "title": "Tuméfaction palpébrale (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|modalités=Examen de l'oeil|spécialités=__specialty__|systèmes=Ophtalmologique, dermatologique|autres_noms=Oedème de la paupière, ordème péri-orbitaire|terme_anglais=Eyelid swelling|snomed_ct_id=193967004}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Tuméfaction de la paupière (signe clinique)",
+                "Oedème palpébrale (signe clinique)",
+                "Masse palpébrale (signe clinique)",
+                "Voussure palpébrale (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2042": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2043": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie, neurochirurgie, rhumatologie, ORL, chirurgie générale",
+            "title": "Tuméfaction du cou (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|approches_cliniques=Masse cervicale (approche clinique)|modalités=Examen de la colonne cervicale, examen du cou, apparence générale, examen traumatologique|spécialités=__specialty__|systèmes=Musculosquelettique, nerveux périphérique, ORL, digestif|terme_anglais=Neck swelling|autres_noms=Masse cervicale|snomed_ct_id=301777002}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Tuméfaction cervicale (signe clinique)",
+                "Oedème du cou (signe clinique)",
+                "Masse du cou (signe clinique)",
+                "Voussure du cou (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2044": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2045": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Chirurgie maxillo-faciale, dentisterie",
+            "title": "Tuméfaction mandibulaire (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|modalités=Examen ORL, examen de la bouche, examen traumatologique|spécialités=__specialty__|systèmes=ORL|terme_anglais=Mandibular swelling|autres_noms=Masse de la mâchoire249357006|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Tuméfaction de la mâchoire (signe clinique)",
+                "Oedème mandibulaire (signe clinique)",
+                "Masse mandibulaire (signe clinique)",
+                "Voussure mandibulaire (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2046": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2047": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie, rhumatologie",
+            "title": "Tuméfaction de l'épaule (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|modalités=Examen de l'épaule, examen traumatologique, apparence générale|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Shoulder swelling249357006|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Oedème de l'épaule (signe clinique)",
+                "Masse de l'épaule (signe clinique)",
+                "Voussure de l'épaule (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2048": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2049": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie",
+            "title": "Tuméfaction du coude (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|modalités=Examen du coude, examen traumatologique, apparence générale|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Elbow swelling249357006|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Oedème du coude (signe clinique)",
+                "Masse du coude (signe clinique)",
+                "Voussure du coude (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2050": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2051": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie, rhumatologie",
+            "title": "Tuméfaction du poignet (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|modalités=Examen du poignet, examen traumatologique, apparence générale|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Wrist swelling249357006|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Oedème du poignet (signe clinique)",
+                "Masse du poignet (signe clinique)",
+                "Voussure du poignet (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2052": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2053": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie, chirurgie plastique, rhumatologie",
+            "title": "Tuméfaction du pouce (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|modalités=Examen du pouce, examen traumatologique, apparence générale|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Thumb swelling249357006|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Oedème du pouce (signe clinique)",
+                "Masse du pouce (signe clinique)",
+                "Voussure du pouce (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2054": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2055": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie, chirurgie plastique, rhumatologie",
+            "title": "Tuméfaction d'un doigt (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|modalités=Examen du doigt, apparence générale, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=D'un Doigt swelling|snomed_ct_id=299060006}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Oedème d'un doigt (signe clinique)",
+                "Masse d'un doigt (signe clinique)",
+                "Voussure d'un doigt (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2056": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2057": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie, rhumatologie, neurochirurgie",
+            "title": "Tuméfaction dorsale (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|modalités=Examen de la colonne dorso-lombaire, apparence générale, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique, nerveux périphérique|terme_anglais=Dorsal swelling|autres_noms=Masse dorsale, voussure dorsale|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Oedème dorsale (signe clinique)",
+                "Masse dorsale (signe clinique)",
+                "Voussure dorsale (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2058": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2059": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie, rhumatologie, neurochirurgie",
+            "title": "Tuméfaction lombaire (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|modalités=Examen de la colonne dorso-lombaire, apparence générale, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique, nerveux périphérique|terme_anglais=Lumbar swelling|autres_noms=Masse lombaire, voussure lombaire|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Tuméfaction du dos (signe clinique)",
+                "Oedème lombaire (signe clinique)",
+                "Masse lombaire (signe clinique)",
+                "Voussure lombaire (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2060": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2061": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie, rhumatologie",
+            "title": "Tuméfaction de la hanche (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|modalités=Examen de la hanche, apparence générale, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Hip swelling|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Oedème de la hanche (signe clinique)",
+                "Masse de la hanche (signe clinique)",
+                "Voussure de la hanche (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2062": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2063": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie, rhumatologie",
+            "title": "Tuméfaction du genou (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|modalités=Examen du genou, apparence générale, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Knee swelling|autres_noms=Oedème du genou, voussure du genou|snomed_ct_id=248491001}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Oedème du genou (signe clinique)",
+                "Masse du genou (signe clinique)",
+                "Voussure du genou (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2064": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2065": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie, rhumatologie",
+            "title": "Tuméfaction de la cheville (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|modalités=Examen de la cheville, apparence générale, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Ankle swelling|snomed_ct_id=26237000}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Oedème de la cheville (signe clinique)",
+                "Masse de la cheville (signe clinique)",
+                "Voussure de la cheville (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2066": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2067": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie, rhumatologie",
+            "title": "Tuméfaction du pied (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|modalités=Examen du pied, apparence générale, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Foot swelling|snomed_ct_id=297142003}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Oedème du pied (signe clinique)",
+                "Masse du pied (signe clinique)",
+                "Voussure du pied (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2068": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2069": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie",
+            "title": "Tuméfaction du talon (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|modalités=Examen du pied, apparence générale, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Heel swelling|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Oedème du talon (signe clinique)",
+                "Masse du talon (signe clinique)",
+                "Voussure du talon (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2070": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2071": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie, rhumatologie",
+            "title": "Tuméfaction des orteils (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|modalités=Examen du pied, apparence générale, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Toes swelling|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Oedème des orteils (signe clinique)",
+                "Masse des orteils (signe clinique)",
+                "Voussure des orteils (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2072": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2073": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Orthopédie, rhumatologie",
+            "title": "Tuméfaction de l'hallux (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|modalités=Examen du pied, apparence générale, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Hallux swelling|autres_noms=Oedème du gros orteil|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Tuméfaction du gros orteil (signe clinique)",
+                "Oedème de l'hallux (signe clinique)",
+                "Masse de l'hallux (signe clinique)",
+                "Voussure de l'hallux (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2074": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2075": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "ORL, dentisterie, chirurgie maxillo-faciale",
+            "title": "Tuméfaction d'une amygdale (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|modalités=Examen ORL, examen de la bouche|spécialités=__specialty__|systèmes=ORL|autres_noms=Oedème des amygdales la gencivce|terme_anglais=Swollen tonsil|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Tuméfaction des amygdales (signe clinique)",
+                "Oedème des amygdales (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2078": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2079": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Chirurgie générale, pneumologie, chirurgie thoracique, oncologie",
+            "title": "Adénopathie supra-claviculaire (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|approches_cliniques=Lymphadénopathies (approche clinique)|modalités=Examen des aires ganglionnaires, examen des ganglions cervicaux, examen pulmonaire|spécialités=__specialty__|systèmes=immunitaire|terme_anglais=Supraclavicular lymphadenopathy|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Tuméfaction supra-claviculaire (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2080": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Symptôme|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2081": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Symptôme|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Chirurgie générale, gastro-entéroogie, oncologie",
+            "title": "Tuméfaction anale (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|approches_cliniques=|modalités=Examen de l'anus, examen abdominal, toucher rectal|spécialités=__specialty__|systèmes=digestif|terme_anglais=Anal mass|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Tuméfaction de l'anus (signe clinique)",
+                "Masse anale (signe clinique)",
+                "Voussure anale (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2082": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Symptôme|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2083": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Symptôme|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Chirurgie générale, gastro-entéroogie, oncologie",
+            "title": "Tuméfaction rectale (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|approches_cliniques=|modalités=Examen abdominal, toucher rectal|spécialités=__specialty__|systèmes=digestif|terme_anglais=Rectal mass|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Tuméfaction du rectum (signe clinique)",
+                "Masse rectale  (signe clinique)",
+                "Voussure rectale (signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2082": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Symptôme|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2083": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Symptôme|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+            "specialty": "Gynécologie",
+            "title": "Tuméfaction du vagin (signe clinique)"
+        },
+        "__title__": {
+            "create": "{{Article de tuméfaction (signe clinique)|modalités=examen gynécologique, examen au speculum|spécialités=__specialty__|systèmes=reproducteur féminin|terme_anglais=Vaginal swelling|snomed_ct_id=0}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+            "redirects": [
+                "Tuméfaction vagine (signe clinique)",
+                "Oedème du vagin (signe clinique)",
+                "Masse du vagin (signe clinique)",
+                "Voussure du vagin(signe clinique)"
+            ]
+        },
+        "Gestion:Rédaction/Tâches/2084": {
+            "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/2085": {
+            "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    }
+]

@@ -1,0 +1,184 @@
+[
+    {
+        "vars": {
+          "specialty": "ORL, neurologie, neurochirurgie, traumatologie",
+          "title": "Saignement de l'oreille (signe clinique)"
+        },
+        "__title__": {
+          "create": "{{Article d'érythème (signe clinique)|modalités=Examen ORL, examen traumatologique|spécialités=__specialty__|systèmes=Auditif|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+        },
+        "Gestion:Rédaction/Tâches/1910": {
+          "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/1911": {
+          "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+          "specialty": "ORL, hématologie",
+          "title": "Épistaxis (signe clinique)"
+        },
+        "__title__": {
+          "create": "{{Article d'érythème (signe clinique)|modalités=Examen ORL, examen du nez, examen traumatologique|spécialités=__specialty__|systèmes=ORL|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+          "redirects": [
+            "Saignement nez (signe clinique)"
+          ]
+        },
+        "Gestion:Rédaction/Tâches/1910": {
+          "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/1911": {
+          "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+      Gingivorrhagie ?
+      "vars": {
+        "specialty": "ORL, dentisterie, chirurgie maxillo-faciale, hématologie",
+        "title": "Saignement buccal (signe clinique)"
+      },
+      "__title__": {
+        "create": "{{Article d'érythème (signe clinique)|modalités=Examen ORL, examen de la bouche|spécialités=__specialty__|systèmes=ORL|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+        "redirects": [
+          "Saignement de la bouche (signe clinique)"
+        ]
+      },
+      "Gestion:Rédaction/Tâches/1910": {
+        "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+      },
+      "Gestion:Rédaction/Tâches/1911": {
+        "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+      }
+  },
+    {
+        "vars": {
+          "specialty": "Ophtalmologie",
+          "title": "Saignement oculaire (signe clinique)"
+        },
+        "__title__": {
+          "create": "{{Article d'érythème (signe clinique)|modalités=Examen de l'oeil|spécialités=__specialty__|systèmes=ORL|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+        },
+        "Gestion:Rédaction/Tâches/1910": {
+          "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/1911": {
+          "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+      },
+      {
+        "vars": {
+          "specialty": "Pneumologie, chirurgie thoracique",
+          "title": "Hémoptysies (signe clinique)"
+        },
+        "Gestion:Rédaction/Tâches/1910": {
+          "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/1911": {
+          "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+      },
+      {
+        "vars": {
+          "specialty": "Gynécologie, obstétrique",
+          "title": "Saignement vaginal (signe clinique)"
+        },
+        "__title__": {
+          "create": "{{Article d'érythème (signe clinique)|modalités=Examen gynécologique|spécialités=__specialty__|systèmes=ORL|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+        },
+        "Gestion:Rédaction/Tâches/1910": {
+          "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/1911": {
+          "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+      },
+      {
+        "vars": {
+          "specialty": "Gastro-entérologie, chirurgie générale",
+          "title": "Saignement anal (signe clinique)"
+        },
+        "__title__": {
+          "create": "{{Article d'érythème (signe clinique)|modalités=Examen de l'abdomen, toucher rectal|spécialités=__specialty__|systèmes=ORL|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+        },
+        "Gestion:Rédaction/Tâches/1910": {
+          "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/1911": {
+          "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+      },
+      {
+        "vars": {
+          "specialty": "Urologie",
+          "title": "Saignement urétral (signe clinique)"
+        },
+        "__title__": {
+          "create": "{{Article d'érythème (signe clinique)|modalités=Examen de l'appareil génital masculin, examen gynécologique, examen de la vulve|spécialités=__specialty__|systèmes=ORL|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+        },
+        "Gestion:Rédaction/Tâches/1910": {
+          "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/1911": {
+          "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+      },
+      {
+        "vars": {
+          "specialty": "Gastro-entérologie, chirurgie générale",
+          "title": "Hématémèse (signe clinique)",
+        },
+        "__title__": {
+          "create": "{{Article d'érythème (signe clinique)|modalités=Apparence générale|spécialités=__specialty__|systèmes=ORL|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+          "redirects": [
+            "Vomissements sanguins (signe clinique)",
+            "Vomissements en gelée de groseille (signe clinique)"
+          ]
+        },
+        "Gestion:Rédaction/Tâches/1910": {
+          "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/1911": {
+          "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+      },
+      {
+        "vars": {
+          "specialty": "Gastro-entérologie, chirurgie générale",
+          "title": "Hématochézie (signe clinique)"
+        },
+        "Gestion:Rédaction/Tâches/1910": {
+          "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/1911": {
+          "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+      },
+      {
+        "vars": {
+          "specialty": "Gastro-entérologie, chirurgie générale",
+          "title": "Rectorragies (signe clinique)"
+        },
+        "Gestion:Rédaction/Tâches/1910": {
+          "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/1911": {
+          "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+      },
+      {
+        "vars": {
+          "specialty": "Dermatologie, chirurgie générale, hématologie",
+          "title": "Saingnement cutané (signe clinique)"
+        },
+        "__title__": {
+          "create": "{{Article d'érythème (signe clinique)|modalités=Examen dermatologique, examen du membre supérieur, examen du membre inférieur, examen de la main, examen du doigt, examen du pied, examen traumatologique|spécialités=__specialty__|systèmes=ORL|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+        },
+        "Gestion:Rédaction/Tâches/1910": {
+          "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/1911": {
+          "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+      }
+]

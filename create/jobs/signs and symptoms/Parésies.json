@@ -1,0 +1,353 @@
+Redirections:
+* Faiblesse
+* Paralysie ?
+Thorax ?
+Ajouter labiale, langue, gorge (pharynx et larynx) et visage dans la page de sémiologie
+[
+  {
+    "vars": {
+      "specialty": "Chirurgie maxillo-faciale, chirurgie plastique, ORL, dentisterie, neurologique, neurochirurgie",
+      "title": "Parésie labiale (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article de Parésie (signe clinique)|spécialités=__specialty__|modalités=Examen ORL, examen de la bouche, examen des paires crâniennes, examen neurologique|systèmes=ORL, dermatologique|autres_noms=Déformation des lèvres|terme_anglais=Labial deformity, lip deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "redirects": [
+        "Parésie des lèvres (signe clinique)"
+      ]
+    },
+    "Gestion:Rédaction/Tâches/1906": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/1907": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Chirurgie maxillo-faciale, ORL, dentisterie, neurologie, neurochirurgie",
+      "title": "Parésie de la langue (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article de tuméfaction (signe clinique)|modalités=Examen ORL, examen de la bouche, examen des paires crâniennes, examen neurologique|spécialités=__specialty__|systèmes=ORL|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "redirects": [
+        "Parésie linguale (signe clinique)"
+      ]
+    },
+    "Gestion:Rédaction/Tâches/1910": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/1911": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Chirurgie maxillo-faciale, ORL, dentisterie, neurologie, neurochirurgie",
+      "title": "Parésie de la gorge (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article de tuméfaction (signe clinique)|modalités=Examen ORL, examen de la bouche, examen des paires crâniennes, examen neurologique|spécialités=__specialty__|systèmes=ORL|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "redirects": [
+        "Parésie du pharynx (signe clinique)",
+        "Parésie du larynx (signe clinique)",
+      ]
+    },
+    "Gestion:Rédaction/Tâches/1910": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/1911": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Chirurgie maxillo-faciale, ORL, chirurgie plastique, neurologie, neurochirurgie",
+      "title": "Parésie du visage (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article de tuméfaction (signe clinique)|modalités=Apparence générale, examen ORL examen traumatologique, examen des paires crâniennes, examen neurologique|spécialités=__specialty__|systèmes=ORL, dermatologie|autres_noms=Déformation faciale|terme_anglais=Facial deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "redirects": [
+        "Parésie faciale (signe clinique)"
+      ]
+    },
+    "Gestion:Rédaction/Tâches/1902": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/1903": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Ophtalmologie, neurologie, neurochirurgie",
+      "title": "Parésie de l'oeil (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article de parésie (signe clinique)|modalités=Examen de l'oeil, examen neurologique, examen des paires crâniennes|spécialités=__specialty__|systèmes=Visuel|terme_anglais=Eye deformity|autres_noms=Déformation oculaire}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "redirects": [
+        "Parésie oculaire (signe clinique)"
+      ]
+    },
+    "Gestion:Rédaction/Tâches/1938": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/1939": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Ophtalmologie, chirurgie plastique, neurologie, neurochirurgie",
+      "title": "Parésie palpébrale (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article de parésie (signe clinique)|modalités=Examen de l'oeil, examen des paires crâniennes|spécialités=__specialty__|systèmes=Ophtalmologique, dermatologique|autres_noms=Déformation de la paupière|terme_anglais=Eyelid deformity, palpebral deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "redirects": [
+        "Parésie de la paupière (signe clinique)"
+      ]
+    },
+    "Gestion:Rédaction/Tâches/1940": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/1941": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Orthopédie, ORL, neurologie, neurochirurgie",
+      "title": "Parésie du cou (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article de parésie (signe clinique)|modalités=Examen de la colonne cervicale, examen du cou, examen neurologique, examen des paires crâniennes|spécialités=__specialty__|systèmes=Musculosquelettique, nerveux périphérique, ORL, digestif|terme_anglais=Neck deformity|autres_noms=Déformation cervicale}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "redirects": [
+        "Parésie cervicale (signe clinique)"
+      ]
+    },
+    "Gestion:Rédaction/Tâches/1942": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/1943": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Chirurgie maxillo-faciale, dentisterie, neurologie, neurochirurgie",
+      "title": "Parésie mandibulaire (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article de parésie (signe clinique)|modalités=Examen ORL, examen de la bouche, examen neurologique, examen des paires crâniennes|spécialités=__specialty__|systèmes=ORL|terme_anglais=Mandibular deformity, jaw deformity|autres_noms=Déformation de la mâchoire}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "redirects": [
+        "Parésie de la mâchoire (signe clinique)"
+      ]
+    },
+    "Gestion:Rédaction/Tâches/1944": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/1945": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Orthopédie, neurologie, neurochirurgie",
+      "title": "Parésie de l'épaule (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article de parésie (signe clinique)|modalités=Examen de l'épaule, examen neurologique, examen des paires crâniennes, examen moteur neurologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Shoulder deformity}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+    },
+    "Gestion:Rédaction/Tâches/1946": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/1947": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Orthopédie, neurologie, neurochirurgie",
+      "title": "Parésie du coude (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article de parésie (signe clinique)|modalités=Examen du coude, examen neurologique, examen moteur neurologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Elbow deformity|autres_noms=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+    },
+    "Gestion:Rédaction/Tâches/1948": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/1949": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Orthopédie, neurologie, neurochirurgie",
+      "title": "Parésie du poignet (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article de parésie (signe clinique)|modalités=Examen du poignet, examen neurologique, examen moteur neurologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Wrist deformity|autres_noms=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+    },
+    "Gestion:Rédaction/Tâches/1950": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/1951": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Orthopédie, chirurgie plastique, neurologie, neurochirurgie",
+      "title": "Parésie du pouce (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article de parésie (signe clinique)|modalités=Examen du pouce, examen neurologique, examen moteur neurologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Thumb deformity|autres_noms=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+    },
+    "Gestion:Rédaction/Tâches/1952": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/1953": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Orthopédie, chirurgie plastique, neurologie, neurochirurgie",
+      "title": "Parésie d'un doigt (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article de parésie (signe clinique)|modalités=Examen du doigt, examen neurologique, examen moteur neurologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Digit deformity|autres_noms=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+    },
+    "Gestion:Rédaction/Tâches/1954": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/1955": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Orthopédie, neurologie, neurochirurgie",
+      "title": "Parésie dorsale (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article de parésie (signe clinique)|modalités=Examen de la colonne dorso-lombaire, examen neurologique, examen moteur neurologique|spécialités=__specialty__|systèmes=musculosquelettique, nerveux périphérique|terme_anglais=Dorsal deformity|autres_noms=Déformation dorsale}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+    },
+    "Gestion:Rédaction/Tâches/1956": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/1957": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Orthopédie, neurologie, neurochirurgie",
+      "title": "Parésie lombaire (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article de parésie (signe clinique)|modalités=Examen de la colonne dorso-lombaire, examen neurologique, examen moteur neurologique|spécialités=__specialty__|systèmes=musculosquelettique, nerveux périphérique|terme_anglais=Lumbar deformity|autres_noms=Déformation lombaire}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "redirects": [
+        "Parésie du dos (signe clinique)"
+      ]
+    },
+    "Gestion:Rédaction/Tâches/1958": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/1959": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Orthopédie, neurologie, neurochirurgie",
+      "title": "Parésie de la hanche (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article de parésie (signe clinique)|modalités=Examen de la hanche, examen neurologique, examen moteur neurologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Hip deformity|autres_noms=Déformation de la hanche}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+    },
+    "Gestion:Rédaction/Tâches/1960": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/1961": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Orthopédie, neurologie, neurochirurgie",
+      "title": "Parésie du genou (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article de parésie (signe clinique)|modalités=Examen du genou, examen neurologique, examen moteur neurologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Knee deformity|autres_noms=Déformation du genou}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+    },
+    "Gestion:Rédaction/Tâches/1962": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/1963": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Orthopédie, neurologie, neurochirurgie",
+      "title": "Parésie de la cheville (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article de parésie (signe clinique)|modalités=Examen de la cheville, examen neurologique, examen moteur neurologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Ankle deformity|autres_noms=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+    },
+    "Gestion:Rédaction/Tâches/1964": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/1965": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Orthopédie, neurologie, neurochirurgie",
+      "title": "Parésie du pied (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article de parésie (signe clinique)|modalités=Examen du pied, examen neurologique, examen moteur neurologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Foot deformity|autres_noms=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+    },
+    "Gestion:Rédaction/Tâches/1966": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/1967": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Orthopédie, neurologie, neurochirurgie",
+      "title": "Parésie des orteils (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article de parésie (signe clinique)|modalités=Examen du pied, examen neurologique, examen moteur neurologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Toe deformity|autres_noms=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+    },
+    "Gestion:Rédaction/Tâches/1970": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/1971": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Orthopédie, neurologie, neurochirurgie",
+      "title": "Parésie de l'hallux (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article de parésie (signe clinique)|modalités=Examen du pied, examen neurologique, examen moteur neurologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=Hallux deformity|autres_noms=Déformation du gros orteil}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "redirects": [
+        "Parésie du gros orteil (signe clinique)"
+      ]
+    },
+    "Gestion:Rédaction/Tâches/1972": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/1973": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  }
+]

@@ -1,0 +1,106 @@
+[
+    Ajouter généralisée à la page sémiologie
+    Corriger les modèles pour les adnp inguinales, axillaires et sus-clav
+    {
+        "vars": {
+          "specialty": "Oncologie, infectiologie, ORL",
+          "title": "Adénopathies cervicales antérieures (signe clinique)"
+        },
+        "__title__": {
+          "create": "{{Article d'érythème (signe clinique)|modalités=Examen ORL, examen cervical, examen des aires ganglionnaires|spécialités=__specialty__|systèmes=Auditif|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+        },
+        "Gestion:Rédaction/Tâches/1910": {
+          "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/1911": {
+          "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+          "specialty": "Oncologie, infectiologie, ORL",
+          "title": "Adénopathies cervicales postérieures (signe clinique)"
+        },
+        "__title__": {
+          "create": "{{Article d'érythème (signe clinique)|modalités=Examen ORL, examen cervical, examen des aires ganglionnaires|spécialités=__specialty__|systèmes=Auditif|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+        },
+        "Gestion:Rédaction/Tâches/1910": {
+          "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/1911": {
+          "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+          "specialty": "Oncologie, infectiologie, ORL, dentisterie, chirurgie maxillo-faciale",
+          "title": "Adénopathies péri-buccale (signe clinique)"
+        },
+        "__title__": {
+          "create": "{{Article d'érythème (signe clinique)|modalités=Examen ORL examen buccal, examen des aires ganglionnaires|spécialités=__specialty__|systèmes=Auditif|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+          "redirects": [
+            "Adénopathies sous-mandibulaires (signe clinique)",
+            "Adénopathies sous-mentonnières (signe clinique)",
+            "Adénopathies sous-maxillaires (signe clinique)"
+          ]
+        },
+        "Gestion:Rédaction/Tâches/1910": {
+          "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/1911": {
+          "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+          "specialty": "Oncologie, infectiologie, ORL",
+          "title": "Adénopathies auriculaires (signe clinique)"
+        },
+        "__title__": {
+          "create": "{{Article d'érythème (signe clinique)|modalités=Examen ORL, examen des aires ganglionnaires|spécialités=__specialty__|systèmes=Auditif|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+          "redirects": [
+            "Adénopathies rétro-auriculaires (signe clinique)",
+            "Adénopathies péri-auriculaire (signe clinique)",
+          ]
+        },
+        "Gestion:Rédaction/Tâches/1910": {
+          "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/1911": {
+          "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+          "specialty": "Oncologie,chirurgie générale, chirurgie thoraciaque, pneumologie,, gastro-entérologie",
+          "title": "Adénopathie sus-claviculaire (signe clinique)"
+        },
+        "__title__": {
+          "create": "{{Article d'érythème (signe clinique)|modalités=Examen de l'abdomen, examen pulmonaire, examen des aires ganglionnaires|spécialités=__specialty__|systèmes=Auditif|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+          "redirects": [
+            "Ganglion de Troisier (signe clinique)"
+          ]
+        },
+        "Gestion:Rédaction/Tâches/1910": {
+          "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/1911": {
+          "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    },
+    {
+        "vars": {
+          "specialty": "Oncologie, infectiologie",
+          "title": "Adénopathies généralisées (signe clinique)"
+        },
+        "__title__": {
+          "create": "{{Article d'érythème (signe clinique)|modalités=Examen des aires ganglionnaires|spécialités=__specialty__|systèmes=Auditif|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+        },
+        "Gestion:Rédaction/Tâches/1910": {
+          "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+        },
+        "Gestion:Rédaction/Tâches/1911": {
+          "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+        }
+    }
+]
