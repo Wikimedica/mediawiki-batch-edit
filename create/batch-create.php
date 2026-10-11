@@ -13,6 +13,8 @@ $createFile = false;
 $createSummary = '';
 $startAt = null;
 $changeTags = ['batch-page-create-script'];
+$taskPrefix = 'Gestion:Rédaction/Tâches/'; // Pages named with __task_id__ placeholders get the next free id under this prefix.
+$nextTaskId = null; // Next task id to try, set by --first-task-id or found on first allocation.
 
 array_shift($argv); // First argument is the script name.
 
@@ -39,6 +41,9 @@ foreach($argv as $a){
         case '--create-summary':
             $createSummary = $value;
             if($createSummary[0] == '"') { $createSummary = substr($createSummary, 1, strlen($createSummary) - 1);  } // Remove quotes.
+            break;
+        case '--first-task-id':
+            $nextTaskId = (int)$value;
             break;
         case '--start-at':
             $startAt = $value;
@@ -97,61 +102,164 @@ foreach($json as $index => $item) {
     
     echo "$count / $total : Processing item ".($index +1 )." ... \n";
     
+    $isFirstPage = true; // The first page of an item is the article; the others (tasks) depend on it.
+    
     // Process each page to create
     foreach($item as $pageTitle => $pageConfig) {
         if($pageTitle === 'vars') continue; // Skip the vars section
         
         if(!is_array($pageConfig)) { die("Fatal: $pageTitle config json invalid\n"); }
         
-        // Substitute variables in the page title
-        foreach($vars as $varName => $varValue) {
-            $pageTitle = str_replace("__{$varName}__", $varValue, $pageTitle);
+        // Allocate task ids for the __task_id__ / __task_id_X__ placeholders found in the title.
+        // A placeholder keeps the same id for the whole item, so it can be reused in content.
+        if(preg_match_all('/__(task_id(?:_\w+?)?)__/', $pageTitle, $m)) {
+            foreach($m[1] as $placeholder) {
+                if(!isset($vars[$placeholder])) {
+                    $vars[$placeholder] = allocateTaskId();
+                    echo " ... Allocated task id {$vars[$placeholder]} to __{$placeholder}__\n";
+                }
+            }
         }
+        
+        // Substitute variables in the page title
+        $pageTitle = substituteVars($pageTitle, $vars);
         
         // Check if page already exists
         if($getter->getFromTitle($pageTitle)->getId() !== 0) {
-            echo " ... [Page $pageTitle already exists, skipping]\n";
+            if($isFirstPage) { // Tasks use auto ids: running them again would duplicate them, so the item is skipped (the script can be rerun safely).
+                echo " ... [Page $pageTitle already exists, skipping the whole item]\n";
+                break;
+            }
+            
+            if(strpos($pageTitle, $taskPrefix) === 0) {
+                echo " ... [WARNING: task page $pageTitle already exists (hard-coded id collision?), skipping. Use __task_id_X__ placeholders instead]\n";
+            } else {
+                echo " ... [Page $pageTitle already exists, skipping]\n";
+            }
             continue;
         }
         
         // Process create action
         if(isset($pageConfig['create'])) {
-            $content = $pageConfig['create'];
-            
-            // Replace variables in the content
-            foreach($vars as $varName => $varValue) {
-                $content = str_replace("__{$varName}__", $varValue, $content);
-            }
-            
             echo " ... Creating page $pageTitle ... \n";
             
             // Create the page
-            createPage($pageTitle, $content, $createSummary);
+            $created = createPage($pageTitle, substituteVars($pageConfig['create'], $vars), $createSummary);
+            
+            if(!$created && $isFirstPage) {
+                echo " ... [Article not created, skipping the rest of the item]\n";
+                break;
+            }
         }
         
         // Process redirects if any
-        if(isset($pageConfig['redirects']) && is_array($pageConfig['redirects'])) {
-            foreach($pageConfig['redirects'] as $redirectTitle) {
-                // Substitute variables in redirect titles too
-                
-                foreach($vars as $varName => $varValue) {
-                    $redirectTitle = str_replace("__{$varName}__", $varValue, $redirectTitle);
-                }
-                
-                if($getter->getFromTitle($redirectTitle)->getId() !== 0) {
-                    echo " ... [Redirect redirectTitle already exists, skipping]\n";
-                    continue;
-                }
-                
-                $redirectContent = "#REDIRECTION [[$pageTitle]]";
-                echo " ... Creating redirect $redirectTitle ... \n";
-                
-                createPage($redirectTitle, $redirectContent, $createSummary);
-            }
-        }
+        createRedirects($pageTitle, $pageConfig, $vars);
+        
+        $isFirstPage = false;
     }
     
     echo "\n";
+}
+
+/**
+ * Creates the redirects listed in a page config, skipping those that already exist.
+ * @param string $pageTitle the redirect target
+ * @param array $pageConfig
+ * @param array $vars
+ */
+function createRedirects($pageTitle, $pageConfig, $vars) {
+    global $getter, $createSummary;
+    
+    if(!isset($pageConfig['redirects']) || !is_array($pageConfig['redirects'])) { return; }
+    
+    foreach($pageConfig['redirects'] as $redirectTitle) {
+        // Substitute variables in redirect titles too
+        $redirectTitle = substituteVars($redirectTitle, $vars);
+        
+        if($getter->getFromTitle($redirectTitle)->getId() !== 0) {
+            echo " ... [Redirect $redirectTitle already exists, skipping]\n";
+            continue;
+        }
+        
+        echo " ... Creating redirect $redirectTitle ... \n";
+        createPage($redirectTitle, "#REDIRECTION [[$pageTitle]]", $createSummary);
+    }
+}
+
+/**
+ * Replaces __var__ placeholders with their values.
+ * @param string $text
+ * @param array $vars
+ * @return string
+ */
+function substituteVars($text, $vars) {
+    foreach($vars as $varName => $varValue) {
+        $text = str_replace("__{$varName}__", $varValue, $text);
+    }
+    
+    return $text;
+}
+
+/**
+ * Returns the next free task id (Gestion:Rédaction/Tâches/N).
+ * On first call, the starting point is --first-task-id or the highest existing id + 1.
+ * Every candidate is checked for existence before being returned, so ids created
+ * by someone else while the script runs are skipped.
+ * @return int
+ */
+function allocateTaskId() {
+    global $api, $getter, $nextTaskId, $taskPrefix;
+    
+    if($nextTaskId === null) {
+        $nextTaskId = findHighestTaskId() + 1;
+        echo " ... Highest existing task id is ".($nextTaskId - 1)."\n";
+    }
+    
+    while($getter->getFromTitle($taskPrefix.$nextTaskId)->getId() !== 0) {
+        echo " ... [Task id $nextTaskId already taken, trying next]\n";
+        $nextTaskId++;
+    }
+    
+    return $nextTaskId++;
+}
+
+/**
+ * Scans all pages under Gestion:Rédaction/Tâches/ and returns the highest numeric id.
+ * @return int
+ */
+function findHighestTaskId() {
+    global $api, $taskPrefix;
+    
+    list($nsName, $prefix) = explode(':', $taskPrefix, 2);
+    
+    // Resolve the namespace id.
+    $result = $api->request(\Addwiki\Mediawiki\Api\Client\Action\Request\ActionRequest::simpleGet('query', [
+        'meta' => 'siteinfo', 'siprop' => 'namespaces', 'formatversion' => 2
+    ]));
+    
+    $nsId = null;
+    foreach($result['query']['namespaces'] as $ns) {
+        if($ns['name'] === $nsName || (isset($ns['canonical']) && $ns['canonical'] === $nsName)) { $nsId = $ns['id']; break; }
+    }
+    
+    if($nsId === null) { die("Fatal: namespace $nsName not found\n"); }
+    
+    $max = 0;
+    $params = ['list' => 'allpages', 'apnamespace' => $nsId, 'apprefix' => $prefix, 'aplimit' => 'max', 'formatversion' => 2];
+    
+    do {
+        $result = $api->request(\Addwiki\Mediawiki\Api\Client\Action\Request\ActionRequest::simpleGet('query', $params));
+        
+        foreach($result['query']['allpages'] as $page) {
+            $id = substr($page['title'], strlen($taskPrefix));
+            if(ctype_digit($id)) { $max = max($max, (int)$id); }
+        }
+        
+        if(isset($result['continue']['apcontinue'])) { $params['apcontinue'] = $result['continue']['apcontinue']; }
+        else { break; }
+    } while(true);
+    
+    return $max;
 }
 
 /**
@@ -159,6 +267,7 @@ foreach($json as $index => $item) {
  * @param string $pageTitle
  * @param string $content
  * @param string $summary
+ * @return bool true if the page was created (or would have been, in dry run).
  */
 function createPage($pageTitle, $content, $summary) {
     global $noConfirm, $dryRun, $services, $changeTags;
@@ -169,13 +278,13 @@ function createPage($pageTitle, $content, $summary) {
         
         if (!in_array(trim(fgets(STDIN)), array('y', 'Y'))) {
             echo " ... [Canceled]\n";
-            return;
+            return false;
         }
     }
     
     if($dryRun) {
         echo "... [Nothing saved (dry run)]\n";
-        return;
+        return true;
     }
     
     try {
@@ -205,12 +314,16 @@ function createPage($pageTitle, $content, $summary) {
             if($noConfirm) {
                 sleep(1);
             }
-        } else {
-            echo " ... [Failed to create]\n";
+            
+            return true;
         }
+        
+        echo " ... [Failed to create]\n";
     } catch (Exception $e) {
         echo " ... [Error: " . $e->getMessage() . "]\n";
     }
+    
+    return false;
 }
 
 echo "Batch creation completed.\n";

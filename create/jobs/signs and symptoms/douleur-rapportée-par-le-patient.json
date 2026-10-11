@@ -56,6 +56,25 @@
   },
   {
     "vars": {
+      "specialty": "ORL, dentisterie, chirurgie maxillo-faciale",
+      "title": "Douleur à la gencive (symptôme)"
+    },
+    "__title__": {
+      "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=ORL|terme_anglais=gum pain, gingival pain, sore gums|autres_noms=Douleur gingivale|snomed_ct_id=11114002|approches_cliniques=Affections buccales (approche clinique)}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "redirects": [
+        "Douleur gingivale (symptôme)",
+        "Douleur aux gencives (symptôme)"
+      ]
+    },
+    "Gestion:Rédaction/Tâches/2104": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Symptôme|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/2105": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Symptôme|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
       "specialty": "ORL",
       "title": "Douleur au nez (symptôme)"
     },
@@ -629,7 +648,7 @@
       "title": "Douleur à la paupière (symptôme)"
     },
     "__title__": {
-      "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=Visuel|terme_anglais=Eye pain|autres_noms=Douleur oculaire|snomed_ct_id=274667000}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de douleur (symptôme)|spécialités=__specialty__|systèmes=Visuel|terme_anglais=Eye pain|autres_noms=Douleur oculaire|snomed_ct_id=274667000}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
     "Gestion:Rédaction/Tâches/1864": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Symptôme|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"

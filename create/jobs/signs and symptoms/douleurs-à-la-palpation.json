@@ -5,34 +5,34 @@
       "title": "Douleur à la palpation du crâne (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation crânienne, Douleur à la palpation de la tête|modalités=Apparence générale, examen neurologique, examen traumatologique|spécialités=__specialty__|systèmes=Neurologique, musculosquelettique|terme_anglais=cranial tenderness, skull tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation crânienne, Douleur à la palpation de la tête|modalités=État général, examen neurologique, examen traumatologique|spécialités=__specialty__|systèmes=Neurologique, musculosquelettique|terme_anglais=cranial tenderness, skull tenderness|snomed_ct_id=75851004|approches_cliniques=Céphalée (approche clinique)}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Douleur à la palpation crânienne (signe clinique)",
         "Douleur à la palpation de la tête (signe clinique)"
       ]
     },
-    "Gestion:Rédaction/Tâches/1894": {
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1895": {
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
       "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
   {
     "vars": {
-      "specialty": "ORL, chirurgie plastique, dermatologie, chirurgie plastique",
+      "specialty": "ORL, chirurgie plastique, dermatologie",
       "title": "Douleur à la palpation de l'oreille (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms= Douleur à la palpation auriculaire|modalités=Examen ORL, examen traumatologique|spécialités=__specialty__|systèmes=ORL, dermatologique|terme_anglais=ear tenderness, auricular tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms= Douleur à la palpation auriculaire|modalités=Examen ORL, examen traumatologique|spécialités=__specialty__|systèmes=ORL, dermatologique|terme_anglais=ear tenderness, auricular tenderness|snomed_ct_id=301388005|approches_cliniques=Otalgie (approche clinique)}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Douleur à la palpation auriculaire (signe clinique)"
       ]
     },
-    "Gestion:Rédaction/Tâches/1896": {
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1897": {
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
       "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
@@ -42,15 +42,15 @@
       "title": "Douleur à la palpation des dents (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation dentaire|modalités=Examen ORL, examen de la bouche, examen traumatologique|spécialités=__specialty__|systèmes=ORL|terme_anglais=dental tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation dentaire|modalités=Examen ORL, examen de la bouche, examen traumatologique|spécialités=__specialty__|systèmes=ORL|terme_anglais=dental tenderness|snomed_ct_id=865987004|approches_cliniques=Affections buccales (approche clinique)}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Douleur à la palpation dentaire (signe clinique)"
       ]
     },
-    "Gestion:Rédaction/Tâches/1898": {
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1899": {
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
       "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
@@ -60,15 +60,15 @@
       "title": "Douleur à la palpation de la gencive (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=douleur à la palpation gingivale|modalités=Examen ORL, examen de la bouche|spécialités=__specialty__|systèmes=ORL|terme_anglais=gum tenderness, gingival tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=douleur à la palpation gingivale|modalités=Examen ORL, examen de la bouche|spécialités=__specialty__|systèmes=ORL|terme_anglais=gum tenderness, gingival tenderness|snomed_ct_id=110341006|approches_cliniques=Affections buccales (approche clinique)}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Douleur à la palpation gingivale (signe clinique)"
       ]
     },
-    "Gestion:Rédaction/Tâches/1980": {
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1981": {
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
       "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
@@ -78,15 +78,34 @@
       "title": "Douleur à la palpation du nez (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation nasale|modalités=Examen ORL, examen du nez, examen traumatologique|terme_anglais=nasal tenderness|spécialités=__specialty__|systèmes=ORL}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation nasale|modalités=Examen ORL, examen du nez, examen traumatologique|terme_anglais=nasal tenderness|spécialités=__specialty__|systèmes=ORL|snomed_ct_id=301195007}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Douleur à la palpation nasale (signe clinique)"
       ]
     },
-    "Gestion:Rédaction/Tâches/1900": {
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1901": {
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "ORL",
+      "title": "Douleur à la palpation de la gorge (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation du pharynx, Douleur à la palpation du larynx|modalités=Examen ORL, examen du cou|spécialités=__specialty__|systèmes=ORL|terme_anglais=throat tenderness, laryngeal tenderness|snomed_ct_id=277247007|approches_cliniques=Mal de gorge (approche clinique)}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "redirects": [
+        "Douleur à la palpation du pharynx (signe clinique)",
+        "Douleur à la palpation du larynx (signe clinique)"
+      ]
+    },
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
       "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
@@ -96,15 +115,15 @@
       "title": "Douleur à la palpation du visage (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation faciale|modalités=Apparence générale, examen ORL examen traumatologique|spécialités=__specialty__|systèmes=ORL, dermatologie|terme_anglais=facial tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation faciale|modalités=État général, examen ORL, examen traumatologique|spécialités=__specialty__|systèmes=ORL, dermatologique|terme_anglais=facial tenderness|snomed_ct_id=278995006}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Douleur à la palpation faciale (signe clinique)"
       ]
     },
-    "Gestion:Rédaction/Tâches/1902": {
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1903": {
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
       "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
@@ -114,15 +133,15 @@
       "title": "Douleur à la palpation de la bouche (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation buccale|spécialités=__specialty__|modalités=Examen ORL, examen de la bouche|systèmes=ORL|terme_anglais=mouth tenderness, oral tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation buccale|spécialités=__specialty__|modalités=Examen ORL, examen de la bouche|systèmes=ORL|terme_anglais=mouth tenderness, oral tenderness|snomed_ct_id=301392003|approches_cliniques=Affections buccales (approche clinique)}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Douleur à la palpation buccale (signe clinique)"
       ]
     },
-    "Gestion:Rédaction/Tâches/1904": {
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1905": {
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
       "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
@@ -132,15 +151,15 @@
       "title": "Douleur à la palpation labiale (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation des lèvres|spécialités=__specialty__|modalités=Examen ORL, examen de la bouche|systèmes=ORL, dermatologique|terme_anglais=labial tenderness, lip tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation des lèvres|spécialités=__specialty__|modalités=Examen ORL, examen de la bouche|systèmes=ORL, dermatologique|terme_anglais=labial tenderness, lip tenderness|snomed_ct_id=|approches_cliniques=Affections buccales (approche clinique)}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Douleur à la palpation des lèvres (signe clinique)"
       ]
     },
-    "Gestion:Rédaction/Tâches/1906": {
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1907": {
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
       "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
@@ -150,15 +169,15 @@
       "title": "Douleur à la palpation de la langue (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation linguale|modalités=Examen ORL, examen de la bouche|spécialités=__specialty__|systèmes=ORL|terme_anglais=tongue tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation linguale|modalités=Examen ORL, examen de la bouche|spécialités=__specialty__|systèmes=ORL|terme_anglais=tongue tenderness|snomed_ct_id=|approches_cliniques=Affections buccales (approche clinique)}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Douleur à la palpation linguale (signe clinique)"
       ]
     },
-    "Gestion:Rédaction/Tâches/1910": {
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1911": {
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
       "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
@@ -168,12 +187,12 @@
       "title": "Douleur à la palpation du bras (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|modalités=Examen du membre supérieur, examen traumatologique|spécialités=__specialty__|systèmes=locomoteur|terme_anglais=arm tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de douleur à la palpation (signe clinique)|modalités=Examen du membre supérieur, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=arm tenderness|snomed_ct_id=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
-    "Gestion:Rédaction/Tâches/1912": {
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1913": {
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
       "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
@@ -183,12 +202,12 @@
       "title": "Douleur à la palpation de l'avant-bras (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|modalités=Examen du membre supérieur, examen traumatologique|spécialités=__specialty__|systèmes=locomoteur|terme_anglais=forearm tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de douleur à la palpation (signe clinique)|modalités=Examen du membre supérieur, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=forearm tenderness|snomed_ct_id=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
-    "Gestion:Rédaction/Tâches/1914": {
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1915": {
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
       "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
@@ -198,12 +217,12 @@
       "title": "Douleur à la palpation de la main (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|modalités=Examen du membre supérieur, examen de la main, examen traumatologique|spécialités=__specialty__|systèmes=locomoteur|terme_anglais=hand tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de douleur à la palpation (signe clinique)|modalités=Examen du membre supérieur, examen de la main, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=hand tenderness|snomed_ct_id=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
-    "Gestion:Rédaction/Tâches/1916": {
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1917": {
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
       "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
@@ -213,46 +232,50 @@
       "title": "Douleur à la palpation mammaire (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation du sein|modalités=Examen du sein|spécialités=__specialty__|systèmes=reproducteur féminin|terme_anglais=breast tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation du sein|modalités=Examen clinique des seins|spécialités=__specialty__|systèmes=reproducteur féminin|terme_anglais=breast tenderness|snomed_ct_id=55222007}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Douleur à la palpation du sein (signe clinique)"
       ]
     },
-    "Gestion:Rédaction/Tâches/1918": {
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1919": {
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
       "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
   {
     "vars": {
       "specialty": "Gastro-entérologie, chirurgie générale, chirurgie vasculaire, urologie, médecine d'urgence, gynécologie, pédiatrie",
-      "title": "Douleur généralisée à la palpation abdominale (signe clinique)"
+      "title": "Douleur à la palpation abdominale généralisée (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|approches_cliniques=Douleur abdominale aiguë (approche clinique); douleur abdominale chronique (approche clinique); Douleur abdominale chez l'enfant (approche clinique)|modalités=Examen de l'abdomen, examen traumatologique|spécialités=__specialty__|systèmes=digestif|terme_anglais=abdominal tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de douleur à la palpation (signe clinique)|approches_cliniques=Douleur abdominale aiguë (approche clinique); Douleur abdominale chronique (approche clinique); Douleur abdominale chez l'enfant (approche clinique)|modalités=Examen de l'abdomen, examen traumatologique|spécialités=__specialty__|systèmes=digestif|terme_anglais=abdominal tenderness|snomed_ct_id=440220007}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "redirects": [
+        "Douleur généralisée à la palpation abdominale (signe clinique)",
+        "Douleur à la palpation abdominale (signe clinique)"
+      ]
     },
-    "Gestion:Rédaction/Tâches/1920": {
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1921": {
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
       "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
   {
     "vars": {
-      "specialty": "Dermatologie, chirurgie générale",
+      "specialty": "Dermatologie, chirurgie générale, infectiologie",
       "title": "Douleur à la palpation axillaire (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|spécialités=__specialty__|systèmes=dermatologique|terme_anglais=axillary tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de douleur à la palpation (signe clinique)|spécialités=__specialty__|systèmes=dermatologique|terme_anglais=axillary tenderness|modalités=Examen des aires ganglionnaires|snomed_ct_id=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
-    "Gestion:Rédaction/Tâches/1820": {
-      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Symptôme|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1821": {
-      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1||class=Classe:Symptôme|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
   {
@@ -261,7 +284,7 @@
       "title": "Douleur à la palpation de l'hypochondre droit (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation de l'HCD, Douleur à la palpation de l'hypochondre droit, Douleur à la palpation du QSD, Douleur à la palpation du quadrant supérieur droit|approches_cliniques=Douleur abdominale aiguë (approche clinique); douleur abdominale chronique (approche clinique); Douleur abdominale chez l'enfant (approche clinique)|spécialités=__specialty__|systèmes=digestif|terme_anglais=right upper quadrant tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation de l'HCD, Douleur à la palpation de l'hypochondre droit, Douleur à la palpation du QSD, Douleur à la palpation du quadrant supérieur droit|approches_cliniques=Douleur abdominale aiguë (approche clinique); Douleur abdominale chronique (approche clinique); Douleur abdominale chez l'enfant (approche clinique)|spécialités=__specialty__|systèmes=digestif|terme_anglais=right upper quadrant tenderness|modalités=Examen de l'abdomen|snomed_ct_id=301404009}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Douleur à la palpation de l'HCD (signe clinique)",
         "Douleur à la palpation de l'hypochondre droit",
@@ -270,11 +293,11 @@
         "Douleur à la palpation du quadrant supérieur droit (signe clinique)"
       ]
     },
-    "Gestion:Rédaction/Tâches/1824": {
-      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Symptôme|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1825": {
-      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Symptôme|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
   {
@@ -283,22 +306,22 @@
       "title": "Douleur à la palpation du flanc droit (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|spécialités=__specialty__|approches_cliniques=Douleur abdominale aiguë (approche clinique); douleur abdominale chronique (approche clinique); Douleur abdominale chez l'enfant (approche clinique)|systèmes=digestif, urinaire|terme_anglais=right flank tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de douleur à la palpation (signe clinique)|spécialités=__specialty__|approches_cliniques=Douleur abdominale aiguë (approche clinique); Douleur abdominale chronique (approche clinique); Douleur abdominale chez l'enfant (approche clinique)|systèmes=digestif, urinaire|terme_anglais=right flank tenderness|modalités=Examen de l'abdomen|snomed_ct_id=1119212003}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
-    "Gestion:Rédaction/Tâches/1826": {
-      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Symptôme|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1827": {
-      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1||class=Classe:Symptôme|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
   {
     "vars": {
-      "specialty": "Gynécologie, chirurgie générale, urologie, pédiatrie",
+      "specialty": "Gastro-entérologie, gynécologie, chirurgie générale, urologie, pédiatrie",
       "title": "Douleur à la palpation de la fosse iliaque droite (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation de la FID, Douleur à la palpation de la fosse iliaque droite, Douleur à la palpation du QID, Douleur à la palpation du quadrant inférieur droit|approches_cliniques=Douleur abdominale aiguë (approche clinique); douleur abdominale chronique (approche clinique); Douleur abdominale chez l'enfant (approche clinique)|spécialités=__specialty__|systèmes=digestif, reproducteur masculin, reproducteur féminin|terme_anglais=right iliac fossa tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation de la FID, Douleur à la palpation de la fosse iliaque droite, Douleur à la palpation du QID, Douleur à la palpation du quadrant inférieur droit|approches_cliniques=Douleur abdominale aiguë (approche clinique); Douleur abdominale chronique (approche clinique); Douleur abdominale chez l'enfant (approche clinique)|spécialités=__specialty__|systèmes=digestif, reproducteur féminin|terme_anglais=right iliac fossa tenderness|modalités=Examen de l'abdomen|snomed_ct_id=301410009}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Douleur à la palpation de la FID (signe clinique)",
         "Douleur à la palpation de la fosse iliaque droite",
@@ -307,11 +330,11 @@
         "Douleur à la palpation du quadrant inférieur droit (signe clinique)"
       ]
     },
-    "Gestion:Rédaction/Tâches/1828": {
-      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Symptôme|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1829": {
-      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1||class=Classe:Symptôme|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
   {
@@ -320,16 +343,16 @@
       "title": "Douleur à la palpation épigastrique (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|approches_cliniques=Douleur abdominale aiguë (approche clinique); douleur abdominale chronique (approche clinique); Douleur abdominale chez l'enfant (approche clinique)|spécialités=__specialty__|systèmes=digestif|terme_anglais=epigastric tenderness|autres_noms=Douleur à la palpation de l'épigastre}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de douleur à la palpation (signe clinique)|approches_cliniques=Douleur abdominale aiguë (approche clinique); Douleur abdominale chronique (approche clinique); Douleur abdominale chez l'enfant (approche clinique)|spécialités=__specialty__|systèmes=digestif|terme_anglais=epigastric tenderness|autres_noms=Douleur à la palpation de l'épigastre|modalités=Examen de l'abdomen|snomed_ct_id=301403003}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Douleur à la palpation de l'épigastre (signe clinique)"
       ]
     },
-    "Gestion:Rédaction/Tâches/1830": {
-      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Symptôme|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1831": {
-      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1||class=Classe:Symptôme|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
   {
@@ -338,44 +361,44 @@
       "title": "Douleur à la palpation péri-ombilicale (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|spécialités=__specialty__|autres_noms=Douleur ombilicale, Douleur à la palpation ombilicale|systèmes=digestif|terme_anglais=periumbilical tenderness|approches_cliniques=Douleur abdominale aiguë (approche clinique); douleur abdominale chronique (approche clinique); Douleur abdominale chez l'enfant (approche clinique)}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de douleur à la palpation (signe clinique)|spécialités=__specialty__|autres_noms=Douleur à la palpation ombilicale|systèmes=digestif|terme_anglais=periumbilical tenderness|approches_cliniques=Douleur abdominale aiguë (approche clinique); Douleur abdominale chronique (approche clinique); Douleur abdominale chez l'enfant (approche clinique)|modalités=Examen de l'abdomen|snomed_ct_id=445386003}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Douleur à la palpation ombilicale (signe clinique)"
       ]
     },
-    "Gestion:Rédaction/Tâches/1832": {
-      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Symptôme|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1833": {
-      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1||class=Classe:Symptôme|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
   {
     "vars": {
       "specialty": "Gynécologie, urologie, pédiatrie",
-      "title": "Douleur à la palpation de sus-pubienne (signe clinique)"
+      "title": "Douleur à la palpation sus-pubienne (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation de l'hypogastre, Douleur à la palpation hypogastrique|spécialités=__specialty__|systèmes=reproducteur féminin, reproducteur masculin, urinaire|terme_anglais=suprapubic tenderness|approches_cliniques=Douleur abdominale aiguë (approche clinique); douleur abdominale chronique (approche clinique); Douleur abdominale chez l'enfant (approche clinique)}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation de l'hypogastre, Douleur à la palpation hypogastrique|spécialités=__specialty__|systèmes=reproducteur féminin, reproducteur masculin, urinaire|terme_anglais=suprapubic tenderness|approches_cliniques=Douleur abdominale aiguë (approche clinique); Douleur abdominale chronique (approche clinique); Douleur abdominale chez l'enfant (approche clinique); Douleur pelvienne (approche clinique)|modalités=Examen de l'abdomen|snomed_ct_id=301409004}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Douleur à la palpation de l'hypogastre (signe clinique)",
         "Douleur à la palpation hypogastrique (signe clinique)"
       ]
     },
-    "Gestion:Rédaction/Tâches/1834": {
-      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Symptôme|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1835": {
-      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1||class=Classe:Symptôme|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
   {
     "vars": {
-      "specialty": "Gastro-entérologie, chirurgie générale, pneumologie, gastro-entérologie, pédiatrie",
+      "specialty": "Gastro-entérologie, chirurgie générale, pneumologie, pédiatrie",
       "title": "Douleur à la palpation de l'hypochondre gauche (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation de l'HCG, Douleur à la palpation de l'hypochondre gauche, Douleur à la palpation du QSG, Douleur à la palpation du quadrant supérieur gauche|spécialités=__specialty__|systèmes=digestif|terme_anglais=left upper quadrant tenderness|approches_cliniques=Douleur abdominale aiguë (approche clinique); douleur abdominale chronique (approche clinique); Douleur abdominale chez l'enfant (approche clinique)}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation de l'HCG, Douleur à la palpation de l'hypochondre gauche, Douleur à la palpation du QSG, Douleur à la palpation du quadrant supérieur gauche|spécialités=__specialty__|systèmes=digestif|terme_anglais=left upper quadrant tenderness|approches_cliniques=Douleur abdominale aiguë (approche clinique); Douleur abdominale chronique (approche clinique); Douleur abdominale chez l'enfant (approche clinique)|modalités=Examen de l'abdomen|snomed_ct_id=301405005}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Douleur à la palpation de l'HCG (signe clinique)",
         "Douleur à la palpation de l'hypochondre gauche",
@@ -384,26 +407,26 @@
         "Douleur à la palpation du quadrant supérieur gauche (signe clinique)"
       ]
     },
-    "Gestion:Rédaction/Tâches/1836": {
-      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Symptôme|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1837": {
-      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1||class=Classe:Symptôme|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
   {
     "vars": {
-      "specialty": "Gastro-entérologie, chirurgie générale, gastro-entérologie, pédiatrie",
+      "specialty": "Gastro-entérologie, chirurgie générale, pédiatrie",
       "title": "Douleur à la palpation du flanc gauche (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|spécialités=__specialty__|systèmes=digestif, urinaire|terme_anglais=left flank tenderness|approches_cliniques=Douleur abdominale aiguë (approche clinique); douleur abdominale chronique (approche clinique); Douleur abdominale chez l'enfant (approche clinique)}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de douleur à la palpation (signe clinique)|spécialités=__specialty__|systèmes=digestif, urinaire|terme_anglais=left flank tenderness|approches_cliniques=Douleur abdominale aiguë (approche clinique); Douleur abdominale chronique (approche clinique); Douleur abdominale chez l'enfant (approche clinique)|modalités=Examen de l'abdomen|snomed_ct_id=1119211005}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
-    "Gestion:Rédaction/Tâches/1838": {
-      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Symptôme|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1839": {
-      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1||class=Classe:Symptôme|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
   {
@@ -412,7 +435,7 @@
       "title": "Douleur à la palpation de la fosse iliaque gauche (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation de la FIG, Douleur à la palpation de la fosse iliaque gauche, Douleur à la palpation du QIG, Douleur à la palpation du quadrant inférieur gauche|spécialités=__specialty__|systèmes=digestif, reproducteur masculin, reproducteur féminin|terme_anglais=left iliac fossa tenderness|approches_cliniques=Douleur abdominale aiguë (approche clinique); douleur abdominale chronique (approche clinique); Douleur abdominale chez l'enfant (approche clinique)}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation de la FIG, Douleur à la palpation de la fosse iliaque gauche, Douleur à la palpation du QIG, Douleur à la palpation du quadrant inférieur gauche|spécialités=__specialty__|systèmes=digestif, reproducteur féminin|terme_anglais=left iliac fossa tenderness|approches_cliniques=Douleur abdominale aiguë (approche clinique); Douleur abdominale chronique (approche clinique); Douleur abdominale chez l'enfant (approche clinique)|modalités=Examen de l'abdomen|snomed_ct_id=301411008}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Douleur à la palpation de la FIG (signe clinique)",
         "Douleur à la palpation de la fosse iliaque gauche",
@@ -421,29 +444,28 @@
         "Douleur à la palpation du quadrant inférieur gauche (signe clinique)"
       ]
     },
-    "Gestion:Rédaction/Tâches/1840": {
-      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Symptôme|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1841": {
-      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1||class=Classe:Symptôme|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
- 
   {
     "vars": {
       "specialty": "Gynécologie, urologie, orthopédie",
       "title": "Douleur à la palpation pelvienne (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|approches_cliniques=Douleur pelvienne (approche clinique)|autres_noms=Douleur à la palpation du pelvis|modalités=Examen de l'abdomen, examen traumatologique|spécialités=__specialty__|systèmes=reproducteur masculin, reproducteur féminin, urinaire|terme_anglais=pelvic tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de douleur à la palpation (signe clinique)|approches_cliniques=Douleur pelvienne (approche clinique)|autres_noms=Douleur à la palpation du pelvis|modalités=Examen de l'abdomen, examen traumatologique|spécialités=__specialty__|systèmes=reproducteur masculin, reproducteur féminin, urinaire|terme_anglais=pelvic tenderness|snomed_ct_id=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Douleur à la palpation du pelvis (signe clinique)"
       ]
     },
-    "Gestion:Rédaction/Tâches/1922": {
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1923": {
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
       "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
@@ -453,31 +475,31 @@
       "title": "Douleur à la palpation du sacrum (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation sacrale|modalités=Examen de la colonne dorso-lombaire, examen traumatologique|spécialités=__specialty__|systèmes=locomoteur, neurologique|terme_anglais=sacral tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation sacrale|modalités=Examen de la colonne dorso-lombaire, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique, neurologique|terme_anglais=sacral tenderness|snomed_ct_id=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Douleur à la palpation sacrale (signe clinique)"
       ]
     },
-    "Gestion:Rédaction/Tâches/1924": {
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1925": {
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
       "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
   {
     "vars": {
-      "specialty": "Chirurgie générale, urologie",
+      "specialty": "Chirurgie générale, urologie, orthopédie",
       "title": "Douleur à la palpation inguinale (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation|spécialités=__specialty__|systèmes=locomoteur, reproducteur masculin, reproducteur féminin|terme_anglais=inguinal tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de douleur à la palpation (signe clinique)|spécialités=__specialty__|systèmes=musculosquelettique, reproducteur masculin, reproducteur féminin|terme_anglais=inguinal tenderness|modalités=Examen de l'abdomen, examen des aires ganglionnaires|snomed_ct_id=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
-    "Gestion:Rédaction/Tâches/1846": {
-      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Symptôme|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1847": {
-      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1||class=Classe:Symptôme|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
   {
@@ -486,12 +508,12 @@
       "title": "Douleur à la palpation de la fesse (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|modalités=examen traumatologique|spécialités=__specialty__|systèmes=locomoteur|terme_anglais=buttock tenderness, gluteal tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de douleur à la palpation (signe clinique)|modalités=examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=buttock tenderness, gluteal tenderness|snomed_ct_id=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
-    "Gestion:Rédaction/Tâches/1926": {
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1927": {
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
       "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
@@ -501,12 +523,12 @@
       "title": "Douleur à la palpation du pénis (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|modalités=examen de l'appareil génital masculin, examen traumatologique|spécialités=__specialty__|systèmes=reproducteur masculin, urinaire|terme_anglais=penile tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de douleur à la palpation (signe clinique)|modalités=examen de l'appareil génital masculin, examen traumatologique|spécialités=__specialty__|systèmes=reproducteur masculin, urinaire|terme_anglais=penile tenderness|snomed_ct_id=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
-    "Gestion:Rédaction/Tâches/1928": {
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1929": {
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
       "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
@@ -516,15 +538,15 @@
       "title": "Douleur à la palpation de la vulve (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation vulvaire|modalités=examen gynécologique, examen de la vulve, examen traumatologique|spécialités=__specialty__|systèmes=reproducteur féminin|terme_anglais=vulvar tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation vulvaire|modalités=examen gynécologique, examen de la vulve, examen traumatologique|spécialités=__specialty__|systèmes=reproducteur féminin|terme_anglais=vulvar tenderness|snomed_ct_id=289492003}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Douleur à la palpation vulvaire (signe clinique)"
       ]
     },
-    "Gestion:Rédaction/Tâches/1930": {
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1931": {
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
       "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
@@ -534,15 +556,15 @@
       "title": "Douleur à la palpation du vagin (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation vaginale|modalités=examen gynécologique, examen au speculum|spécialités=__specialty__|systèmes=reproducteur féminin|terme_anglais=vaginal tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation vaginale|modalités=Examen gynécologique|spécialités=__specialty__|systèmes=reproducteur féminin|terme_anglais=vaginal tenderness|snomed_ct_id=289594004}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Douleur à la palpation vaginale (signe clinique)"
       ]
     },
-    "Gestion:Rédaction/Tâches/1982": {
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1983": {
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
       "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
@@ -552,17 +574,17 @@
       "title": "Douleur à la palpation testiculaire (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation des testicules, Douleur à la palpation du scrotum, Douleur à la palpation du testicule|modalités=examen de l'appareil génital masculin, examen traumatologique|spécialités=__specialty__|systèmes=reproducteur masculin|terme_anglais=testicular tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation des testicules, Douleur à la palpation du scrotum, Douleur à la palpation du testicule|modalités=examen de l'appareil génital masculin, examen traumatologique|spécialités=__specialty__|systèmes=reproducteur masculin|terme_anglais=testicular tenderness|snomed_ct_id=1354653001|approches_cliniques=Douleur scrotale (approche clinique)}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Douleur à la palpation des testicules (signe clinique)",
         "Douleur à la palpation du scrotum (signe clinique)",
         "Douleur à la palpation du testicule (signe clinique)"
       ]
     },
-    "Gestion:Rédaction/Tâches/1932": {
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1933": {
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
       "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
@@ -572,12 +594,12 @@
       "title": "Douleur à la palpation de la cuisse (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|modalités=Examen du membre inférieur, examen traumatologique|spécialités=__specialty__|systèmes=locomoteur|terme_anglais=thigh tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de douleur à la palpation (signe clinique)|modalités=Examen du membre inférieur, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique, cardiovasculaire|terme_anglais=thigh tenderness|snomed_ct_id=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
-    "Gestion:Rédaction/Tâches/1934": {
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1935": {
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
       "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
@@ -587,30 +609,12 @@
       "title": "Douleur à la palpation de la jambe (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|modalités=Examen du membre inférieur, examen traumatologique|spécialités=__specialty__|systèmes=locomoteur|terme_anglais=leg tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de douleur à la palpation (signe clinique)|modalités=Examen du membre inférieur, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique, cardiovasculaire|terme_anglais=leg tenderness|snomed_ct_id=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
-    "Gestion:Rédaction/Tâches/1936": {
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1937": {
-      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
-    }
-  },
-  {
-    "vars": {
-      "specialty": "Ophtalmologie",
-      "title": "Douleur à la palpation de l'oeil (signe clinique)"
-    },
-    "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation oculaire|modalités=Examen de l'oeil, examen traumatologique|spécialités=__specialty__|systèmes=Visuel|terme_anglais=eye tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
-      "redirects": [
-        "Douleur à la palpation oculaire (signe clinique)"
-      ]
-    },
-    "Gestion:Rédaction/Tâches/1938": {
-      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
-    },
-    "Gestion:Rédaction/Tâches/1939": {
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
       "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
@@ -620,51 +624,15 @@
       "title": "Douleur à la palpation palpébrale (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation de la paupière|modalités=Examen de l'oeil|spécialités=__specialty__|systèmes=Ophtalmologique, dermatologique|terme_anglais=eyelid tenderness, palpebral tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation de la paupière|modalités=Examen ophtalmologique|spécialités=__specialty__|systèmes=Ophtalmologique, dermatologique|terme_anglais=eyelid tenderness, palpebral tenderness|snomed_ct_id=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Douleur à la palpation de la paupière (signe clinique)"
       ]
     },
-    "Gestion:Rédaction/Tâches/1940": {
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1941": {
-      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
-    }
-  },
-  {
-    "vars": {
-      "specialty": "Orthopédie, neurochirurgie, rhumatologie, ORL, chirurgie générale",
-      "title": "Douleur à la palpation du cou (signe clinique)"
-    },
-    "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation cervicale|modalités=Examen de la colonne cervicale, examen du cou, examen traumatologique|spécialités=__specialty__|systèmes=Musculosquelettique, nerveux périphérique, ORL, digestif|terme_anglais=neck tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
-      "redirects": [
-        "Douleur à la palpation cervicale (signe clinique)"
-      ]
-    },
-    "Gestion:Rédaction/Tâches/1942": {
-      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
-    },
-    "Gestion:Rédaction/Tâches/1943": {
-      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
-    }
-  },
-  {
-    "vars": {
-      "specialty": "Chirurgie maxillo-faciale, dentisterie",
-      "title": "Douleur à la palpation mandibulaire (signe clinique)"
-    },
-    "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation de la mâchoire|modalités=Examen ORL, examen de la bouche, examen traumatologique|spécialités=__specialty__|systèmes=ORL|terme_anglais=mandibular tenderness, jaw tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
-      "redirects": [
-        "Douleur à la palpation de la mâchoire (signe clinique)"
-      ]
-    },
-    "Gestion:Rédaction/Tâches/1944": {
-      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
-    },
-    "Gestion:Rédaction/Tâches/1945": {
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
       "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
@@ -674,12 +642,12 @@
       "title": "Douleur à la palpation de l'épaule (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|modalités=Examen de l'épaule, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=shoulder tenderness}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de douleur à la palpation (signe clinique)|modalités=Examen de l'épaule, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=shoulder tenderness|snomed_ct_id=298856001}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
-    "Gestion:Rédaction/Tâches/1946": {
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1947": {
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
       "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
@@ -689,12 +657,12 @@
       "title": "Douleur à la palpation du coude (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|modalités=Examen du coude, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=elbow tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de douleur à la palpation (signe clinique)|modalités=Examen du coude, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=elbow tenderness|snomed_ct_id=298928007}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
-    "Gestion:Rédaction/Tâches/1948": {
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1949": {
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
       "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
@@ -704,12 +672,12 @@
       "title": "Douleur à la palpation du poignet (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|modalités=Examen du poignet, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=wrist tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de douleur à la palpation (signe clinique)|modalités=Examen du poignet, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=wrist tenderness|snomed_ct_id=299017002}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
-    "Gestion:Rédaction/Tâches/1950": {
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1951": {
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
       "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
@@ -719,12 +687,12 @@
       "title": "Douleur à la palpation du pouce (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|modalités=Examen du pouce, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=thumb tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de douleur à la palpation (signe clinique)|modalités=Examen du pouce, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=thumb tenderness|snomed_ct_id=299198008}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
-    "Gestion:Rédaction/Tâches/1952": {
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1953": {
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
       "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
@@ -734,27 +702,31 @@
       "title": "Douleur à la palpation d'un doigt (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|modalités=Examen du doigt, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=digit tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de douleur à la palpation (signe clinique)|modalités=Examen du doigt, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=digit tenderness|snomed_ct_id=299111003}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
-    "Gestion:Rédaction/Tâches/1954": {
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1955": {
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
       "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
   {
     "vars": {
       "specialty": "Orthopédie, rhumatologie, neurochirurgie",
-      "title": "Douleur à la palpation dorsale (signe clinique)"
+      "title": "Douleur à la palpation du dos (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|modalités=Examen de la colonne dorso-lombaire, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique, nerveux périphérique|terme_anglais=dorsal tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de douleur à la palpation (signe clinique)|modalités=Examen de la colonne dorso-lombaire, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique, nerveux périphérique|terme_anglais=dorsal tenderness|snomed_ct_id=298578004|approches_cliniques=Dorsalgie (approche clinique)}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "redirects": [
+        "Douleur à la palpation dorsale (signe clinique)",
+        "Douleur à la palpation du rachis dorsal (signe clinique)"
+      ]
     },
-    "Gestion:Rédaction/Tâches/1956": {
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1957": {
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
       "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
@@ -764,15 +736,15 @@
       "title": "Douleur à la palpation lombaire (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation du dos|modalités=Examen de la colonne dorso-lombaire, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique, nerveux périphérique|terme_anglais=lumbar tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de douleur à la palpation (signe clinique)|modalités=Examen de la colonne dorso-lombaire, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique, nerveux périphérique|terme_anglais=lumbar tenderness|snomed_ct_id=298673002|approches_cliniques=Lombalgie (approche clinique)}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
-        "Douleur à la palpation du dos (signe clinique)"
+        "Douleur à la palpation du rachis lombaire (signe clinique)"
       ]
     },
-    "Gestion:Rédaction/Tâches/1958": {
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1959": {
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
       "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
@@ -782,12 +754,12 @@
       "title": "Douleur à la palpation de la hanche (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|modalités=Examen de la hanche, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=hip tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de douleur à la palpation (signe clinique)|modalités=Examen de la hanche, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=hip tenderness|snomed_ct_id=299307002}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
-    "Gestion:Rédaction/Tâches/1960": {
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1961": {
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
       "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
@@ -797,12 +769,12 @@
       "title": "Douleur à la palpation du genou (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|modalités=Examen du genou, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=knee tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de douleur à la palpation (signe clinique)|modalités=Examen du genou, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=knee tenderness|snomed_ct_id=299372009}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
-    "Gestion:Rédaction/Tâches/1962": {
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1963": {
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
       "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
@@ -812,12 +784,12 @@
       "title": "Douleur à la palpation de la cheville (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|modalités=Examen de la cheville, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=ankle tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de douleur à la palpation (signe clinique)|modalités=Examen de la cheville, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=ankle tenderness|snomed_ct_id=299446004}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
-    "Gestion:Rédaction/Tâches/1964": {
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1965": {
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
       "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
@@ -827,12 +799,12 @@
       "title": "Douleur à la palpation du pied (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|modalités=Examen du pied, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=foot tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de douleur à la palpation (signe clinique)|modalités=Examen du pied, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=foot tenderness|snomed_ct_id=299512002}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
-    "Gestion:Rédaction/Tâches/1966": {
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1967": {
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
       "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
@@ -842,12 +814,12 @@
       "title": "Douleur à la palpation du talon (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|modalités=Examen du pied, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=heel tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de douleur à la palpation (signe clinique)|modalités=Examen du pied, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=heel tenderness|snomed_ct_id=203131005}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
-    "Gestion:Rédaction/Tâches/1968": {
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1969": {
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
       "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
@@ -857,12 +829,12 @@
       "title": "Douleur à la palpation des orteils (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|modalités=Examen du pied, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=toe tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
+      "create": "{{Article de douleur à la palpation (signe clinique)|modalités=Examen du pied, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=toe tenderness|snomed_ct_id=299632005}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />"
     },
-    "Gestion:Rédaction/Tâches/1970": {
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1971": {
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
       "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
@@ -872,15 +844,15 @@
       "title": "Douleur à la palpation de l'hallux (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation du gros orteil|modalités=Examen du pied, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=hallux tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation du gros orteil|modalités=Examen du pied, examen traumatologique|spécialités=__specialty__|systèmes=musculosquelettique|terme_anglais=hallux tenderness|snomed_ct_id=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
         "Douleur à la palpation du gros orteil (signe clinique)"
       ]
     },
-    "Gestion:Rédaction/Tâches/1972": {
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1973": {
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
       "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
@@ -890,51 +862,37 @@
       "title": "Douleur à la palpation du thorax (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation thoracique|modalités=Examen pulmonaire, examen traumatologique|spécialités=__specialty__|systèmes=Respiratoire, locomoteur|terme_anglais=thoracic tenderness, chest tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de douleur à la palpation (signe clinique)|autres_noms=Douleur à la palpation thoracique|modalités=Examen pulmonaire, examen traumatologique|spécialités=__specialty__|systèmes=Respiratoire, musculosquelettique|terme_anglais=thoracic tenderness, chest tenderness|snomed_ct_id=102591006|approches_cliniques=Douleur thoracique (approche clinique)}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
-        "Douleur à la palpation thoracique (signe clinique)"
+        "Douleur à la palpation thoracique (signe clinique)",
+        "Douleur à la palpation de la paroi thoracique (signe clinique)"
       ]
     },
-    "Gestion:Rédaction/Tâches/1974": {
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1975": {
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
       "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   },
   {
     "vars": {
       "specialty": "Gastro-entérologie, chirurgie générale",
-      "title": "Douleur à la palpation anale (signe clinique)"
+      "title": "Douleur à la palpation ano-rectale (signe clinique)"
     },
     "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|approches_cliniques=Douleur ano-rectale (approche clinique)|autres_noms=Douleur à la palpation de l'anus|modalités=Examen de l'anus, examen abdominal, toucher rectal|spécialités=__specialty__|systèmes=digestif|terme_anglais=anal tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "create": "{{Article de douleur à la palpation (signe clinique)|approches_cliniques=Douleur ano-rectale (approche clinique)|autres_noms=Douleur à la palpation de l'anus, Douleur à la palpation du rectum|modalités=Examen de l'anus, examen de l'abdomen, toucher rectal|spécialités=__specialty__|systèmes=digestif|terme_anglais=anorectal tenderness, anal tenderness, rectal tenderness|snomed_ct_id=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
       "redirects": [
-        "Douleur à la palpation de l'anus (signe clinique)"
-      ]
-    },
-    "Gestion:Rédaction/Tâches/1976": {
-      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
-    },
-    "Gestion:Rédaction/Tâches/1977": {
-      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
-    }
-  },
-  {
-    "vars": {
-      "specialty": "Gastro-entérologie, chirurgie générale",
-      "title": "Douleur à la palpation rectale (signe clinique)"
-    },
-    "__title__": {
-      "create": "{{Article de douleur à la palpation (signe clinique)|approches_cliniques=Douleur ano-rectale (approche clinique)|autres_noms=Douleur à la palpation du rectum|modalités=Examen abdominal, toucher rectal|spécialités=__specialty__|systèmes=digestif|terme_anglais=rectal tenderness}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
-      "redirects": [
+        "Douleur à la palpation anale (signe clinique)",
+        "Douleur à la palpation rectale (signe clinique)",
+        "Douleur à la palpation de l'anus (signe clinique)",
         "Douleur à la palpation du rectum (signe clinique)"
       ]
     },
-    "Gestion:Rédaction/Tâches/1978": {
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
       "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
     },
-    "Gestion:Rédaction/Tâches/1979": {
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
       "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
     }
   }
