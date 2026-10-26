@@ -1,238 +1,253 @@
 [
-    Ajouter: parois du vagin, paupières, lèvres, bouche, langue, anus, mammaire, muqueuse nasale
-    Redirections avec Rougeur
-
-    {
-        "vars": {
-          "specialty": "Ophtalmologie",
-          "title": "Érythème de la conjonctive (signe clinique)"
-        },
-        "Gestion:Rédaction/Tâches/1910": {
-          "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
-        },
-        "Gestion:Rédaction/Tâches/1911": {
-          "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
-        }
+  {
+    "vars": {
+      "specialty": "Dermatologie, ophtalmologie",
+      "title": "Érythème des paupières (signe clinique)"
     },
-    {
-        "vars": {
-          "specialty": "Dermatologie, ophtalmologie",
-          "title": "Érythème des paupières (signe clinique)"
-        },
-        "__title__": {
-          "create": "{{Article d'érythème (signe clinique)|modalités=Examen ORL, apparence générale, examen dermatologique|spécialités=__specialty__|systèmes=ORL|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
-          "redirects": [
-            "Érythème palpébral (signe clinique)"
-          ]
-        },
-        "Gestion:Rédaction/Tâches/1910": {
-          "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
-        },
-        "Gestion:Rédaction/Tâches/1911": {
-          "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
-        }
-      },
-    {
-        "vars": {
-          "specialty": "Chirurgie maxillo-faciale, ORL, dentisterie, dermatologie",
-          "title": "Érythème du visage (signe clinique)"
-        },
-        "__title__": {
-          "create": "{{Article d'érythème (signe clinique)|modalités=Examen ORL, apparence générale, examen dermatologique|spécialités=__specialty__|systèmes=ORL|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
-          "redirects": [
-            "Érythème facial (signe clinique)"
-          ]
-        },
-        "Gestion:Rédaction/Tâches/1910": {
-          "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
-        },
-        "Gestion:Rédaction/Tâches/1911": {
-          "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
-        }
-      },
-      {
-        "vars": {
-          "specialty": "Gynécologie, dermatologie",
-          "title": "Érythème de la vulve (signe clinique)"
-        },
-        "__title__": {
-          "create": "{{Article d'érythème (signe clinique)|modalités=Examen gynécologique, examen de la vulve, examen dermatologiquee|spécialités=__specialty__|systèmes=ORL|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
-          "redirects": [
-            "Parésie linguale (signe clinique)"
-          ]
-        },
-        "Gestion:Rédaction/Tâches/1910": {
-          "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
-        },
-        "Gestion:Rédaction/Tâches/1911": {
-          "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
-        }
-      },
-      {
-        "vars": {
-          "specialty": "Gynécologie",
-          "title": "Érythème des parois du vagin (signe clinique)"
-        },
-        "__title__": {
-          "create": "{{Article d'érythème (signe clinique)|modalités=Examen gynécologique|spécialités=__specialty__|systèmes=ORL|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
-          "redirects": [
-            "Parésie linguale (signe clinique)"
-          ]
-        },
-        "Gestion:Rédaction/Tâches/1910": {
-          "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
-        },
-        "Gestion:Rédaction/Tâches/1911": {
-          "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
-        }
-      },
-      {
-        "vars": {
-          "specialty": "Gastro-entérologie, chirurgie générale dermatologie",
-          "title": "Érythème de l'anus (signe clinique)"
-        },
-        "__title__": {
-          "create": "{{Article d'érythème (signe clinique)|modalités=Examen de l'appareil génital masculin|spécialités=__specialty__|systèmes=ORL|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
-          "redirects": [
-            "Érythème anal (signe clinique)"
-          ]
-        },
-        "Gestion:Rédaction/Tâches/1910": {
-          "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
-        },
-        "Gestion:Rédaction/Tâches/1911": {
-          "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
-        }
-      },
-      {
-        "vars": {
-          "specialty": "Urologie, dermatologie",
-          "title": "Érythème de l'appareil génital masculin (signe clinique)"
-        },
-        "__title__": {
-          "create": "{{Article d'érythème (signe clinique)|modalités=Examen de l'appareil génital masculin|spécialités=__specialty__|systèmes=ORL|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
-          "redirects": [
-            "Érythème du pénis (signe clinique)",
-            "Érythème du scrotum (signe clinique)",
-            "Érythème scrotal (signe clinique)"
-          ]
-        },
-        "Gestion:Rédaction/Tâches/1910": {
-          "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
-        },
-        "Gestion:Rédaction/Tâches/1911": {
-          "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
-        }
-      },
-      {
-        "vars": {
-          "specialty": "Dermatologie, rhumatologie, gastro-entérologie",
-          "title": "Érythème palmaire (signe clinique)"
-        },
-        "__title__": {
-          "create": "{{Article d'érythème (signe clinique)|modalités=Examen dermatologique|spécialités=__specialty__|systèmes=ORL|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
-          "redirects": [
-            "Érythème des paumes (signe clinique)"
-          ]
-        },
-        "Gestion:Rédaction/Tâches/1910": {
-          "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
-        },
-        "Gestion:Rédaction/Tâches/1911": {
-          "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
-        }
-      },
-      {
-        "vars": {
-          "specialty": "Ophtalmologie, dermatologie",
-          "title": "Érythème péri-orbitaire (signe clinique)"
-        },
-        "__title__": {
-          "create": "{{Article d'érythème (signe clinique)|modalités=Examen ORL, examen ophtalmologique, examen dermatologique|spécialités=__specialty__|systèmes=ORL|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
-          "redirects": [
-            "Érythème du pénis (signe clinique)",
-            "Érythème du scrotum (signe clinique)",
-            "Érythème scrotal (signe clinique)"
-          ]
-        },
-        "Gestion:Rédaction/Tâches/1910": {
-          "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
-        },
-        "Gestion:Rédaction/Tâches/1911": {
-          "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
-        }
-      },
-      {
-        "vars": {
-          "specialty": "Chirurgie maxillo-faciale, ORL",
-          "title": "Érythème pharyngé (signe clinique)"
-        },
-        "__title__": {
-          "create": "{{Article d'érythème (signe clinique)|modalités=Examen ORL, examen de la bouche|spécialités=__specialty__|systèmes=ORL|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
-          "redirects": [
-            "Érythème du pharynx (signe clinique)",
-            "Érythème de la gorge(signe clinique)"          ]
-        },
-        "Gestion:Rédaction/Tâches/1910": {
-          "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
-        },
-        "Gestion:Rédaction/Tâches/1911": {
-          "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
-        }
-      },
-      {
-        "vars": {
-          "specialty": "Chirurgie maxillo-faciale,ORL, dermatologie",
-          "title": "Érythème des lèvres (signe clinique)"
-        },
-        "__title__": {
-          "create": "{{Article d'érythème (signe clinique)|modalités=Examen ORL, examen de la bouche, examen dermatologique|spécialités=__specialty__|systèmes=ORL|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
-          "redirects": [
-            "Érythème labial (signe clinique)"
-            ]
-        },
-        "Gestion:Rédaction/Tâches/1910": {
-          "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
-        },
-        "Gestion:Rédaction/Tâches/1911": {
-          "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
-        }
-      },
-      {
-        "vars": {
-          "specialty": "Chirurgie maxillo-faciale, ORL, dentisterie, neurologie, neurochirurgie",
-          "title": "Érythème de la bouche (signe clinique)"
-        },
-        "__title__": {
-          "create": "{{Article d'érythème (signe clinique)|modalités=Examen ORL, examen de la bouche|spécialités=__specialty__|systèmes=ORL|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
-          "redirects": [
-            "Érythème du buccal (signe clinique)"
-           ]
-        },
-        "Gestion:Rédaction/Tâches/1910": {
-          "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
-        },
-        "Gestion:Rédaction/Tâches/1911": {
-          "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
-        }
-      },
-      {
-        Est-ce qu'il y a une page sur la langue framboisée ?
-        "vars": {
-          "specialty": "Chirurgie maxillo-faciale, ORL",
-          "title": "Érythème de la langue (signe clinique)"
-        },
-        "__title__": {
-          "create": "{{Article d'érythème (signe clinique)|modalités=Examen ORL, examen de la bouche|spécialités=__specialty__|systèmes=ORL|autres_noms=Déformation linguale|terme_anglais=Tongue deformity}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
-          "redirects": [
-            "Érythème lingual (signe clinique)"
-           ]
-        },
-        "Gestion:Rédaction/Tâches/1910": {
-          "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
-        },
-        "Gestion:Rédaction/Tâches/1911": {
-          "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
-        }
-      }
+    "__title__": {
+      "create": "{{Article d'érythème (signe clinique)|autres_noms=Érythème palpébral, rougeur des paupières|modalités=Examen ophtalmologique, examen dermatologique|spécialités=__specialty__|systèmes=Visuel, cutané|terme_anglais=Eyelid erythema|snomed_ct_id=1137447008|approches_cliniques=Oeil rouge (approche clinique)}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "redirects": [
+        "Érythème palpébral (signe clinique)",
+        "Rougeur des paupières (signe clinique)"
+      ]
+    },
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Dermatologie, rhumatologie, infectiologie, pédiatrie",
+      "title": "Érythème du visage (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article d'érythème (signe clinique)|autres_noms=Érythème facial, rougeur du visage|modalités=Apparence générale, examen dermatologique|spécialités=__specialty__|systèmes=Cutané|terme_anglais=Facial erythema|snomed_ct_id=444827008|approches_cliniques=Éruption cutanée (approche clinique)}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "redirects": [
+        "Érythème facial (signe clinique)",
+        "Rougeur du visage (signe clinique)"
+      ]
+    },
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Gynécologie, dermatologie",
+      "title": "Érythème de la vulve (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article d'érythème (signe clinique)|autres_noms=Érythème vulvaire, rougeur de la vulve|modalités=Examen gynécologique, examen dermatologique|spécialités=__specialty__|systèmes=Reproducteur féminin, cutané|terme_anglais=Vulvar erythema|snomed_ct_id=289485008|approches_cliniques=Écoulement vaginal, prurit vulvaire (approche clinique)}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "redirects": [
+        "Érythème vulvaire (signe clinique)",
+        "Rougeur de la vulve (signe clinique)"
+      ]
+    },
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Gastro-entérologie, chirurgie générale, dermatologie",
+      "title": "Érythème de l'anus (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article d'érythème (signe clinique)|autres_noms=Érythème anal, érythème périanal, rougeur de l'anus|modalités=Examen ano-rectal, examen dermatologique|spécialités=__specialty__|systèmes=Digestif, cutané|terme_anglais=Perianal erythema|snomed_ct_id=444827008|approches_cliniques=Douleur ano-rectale (approche clinique)}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "redirects": [
+        "Érythème anal (signe clinique)",
+        "Érythème périanal (signe clinique)",
+        "Rougeur de l'anus (signe clinique)"
+      ]
+    },
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Urologie, dermatologie, infectiologie",
+      "title": "Érythème de l'appareil génital masculin (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article d'érythème (signe clinique)|autres_noms=Érythème du pénis, érythème du scrotum|modalités=Examen de l'appareil génital masculin, examen dermatologique|spécialités=__specialty__|systèmes=Reproducteur masculin, cutané|terme_anglais=Male genital erythema|snomed_ct_id=444827008|approches_cliniques=Douleur scrotale (approche clinique)}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "redirects": [
+        "Érythème du pénis (signe clinique)",
+        "Érythème du scrotum (signe clinique)",
+        "Érythème scrotal (signe clinique)",
+        "Rougeur des organes génitaux masculins (signe clinique)"
+      ]
+    },
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Dermatologie, gastro-entérologie, rhumatologie",
+      "title": "Érythème palmaire (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article d'érythème (signe clinique)|autres_noms=Érythème des paumes, rougeur des paumes|modalités=Examen dermatologique, examen des mains|spécialités=__specialty__|systèmes=Cutané|terme_anglais=Palmar erythema|snomed_ct_id=56940005|approches_cliniques=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "redirects": [
+        "Érythème des paumes (signe clinique)",
+        "Rougeur des paumes (signe clinique)"
+      ]
+    },
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Ophtalmologie, dermatologie, infectiologie",
+      "title": "Érythème péri-orbitaire (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article d'érythème (signe clinique)|autres_noms=Érythème périorbitaire, rougeur péri-orbitaire|modalités=Examen ophtalmologique, examen dermatologique|spécialités=__specialty__|systèmes=Visuel, cutané|terme_anglais=Periorbital erythema|snomed_ct_id=412740002|approches_cliniques=Oeil rouge (approche clinique)}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "redirects": [
+        "Érythème périorbitaire (signe clinique)",
+        "Rougeur péri-orbitaire (signe clinique)"
+      ]
+    },
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "ORL, infectiologie, pédiatrie",
+      "title": "Érythème pharyngé (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article d'érythème (signe clinique)|autres_noms=Érythème du pharynx, érythème de la gorge, gorge rouge|modalités=Examen ORL, examen de la bouche|spécialités=__specialty__|systèmes=ORL|terme_anglais=Pharyngeal erythema, red throat|snomed_ct_id=126662008|approches_cliniques=Mal de gorge (approche clinique)}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "redirects": [
+        "Érythème du pharynx (signe clinique)",
+        "Érythème de la gorge (signe clinique)",
+        "Rougeur de la gorge (signe clinique)"
+      ]
+    },
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Dermatologie, ORL, chirurgie maxillo-faciale",
+      "title": "Érythème des lèvres (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article d'érythème (signe clinique)|autres_noms=Érythème labial, rougeur des lèvres|modalités=Examen de la bouche, examen dermatologique|spécialités=__specialty__|systèmes=ORL, cutané|terme_anglais=Lip erythema|snomed_ct_id=126486000|approches_cliniques=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "redirects": [
+        "Érythème labial (signe clinique)",
+        "Rougeur des lèvres (signe clinique)"
+      ]
+    },
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "ORL, dentisterie, chirurgie maxillo-faciale",
+      "title": "Érythème de la bouche (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article d'érythème (signe clinique)|autres_noms=Érythème buccal, érythème de la muqueuse buccale|modalités=Examen de la bouche|spécialités=__specialty__|systèmes=ORL, digestif|terme_anglais=Oral mucosal erythema|snomed_ct_id=109771000|approches_cliniques=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "redirects": [
+        "Érythème buccal (signe clinique)",
+        "Érythème de la muqueuse buccale (signe clinique)",
+        "Rougeur de la bouche (signe clinique)"
+      ]
+    },
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "ORL, chirurgie maxillo-faciale, pédiatrie",
+      "title": "Érythème de la langue (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article d'érythème (signe clinique)|autres_noms=Érythème lingual, rougeur de la langue|modalités=Examen de la bouche|spécialités=__specialty__|systèmes=ORL, digestif|terme_anglais=Tongue erythema|snomed_ct_id=126486000|approches_cliniques=}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "redirects": [
+        "Érythème lingual (signe clinique)",
+        "Rougeur de la langue (signe clinique)"
+      ]
+    },
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "Gynécologie, chirurgie générale, dermatologie, oncologie",
+      "title": "Érythème mammaire (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article d'érythème (signe clinique)|autres_noms=Érythème du sein, rougeur du sein|modalités=Examen des seins, examen dermatologique|spécialités=__specialty__|systèmes=Reproducteur féminin, cutané|terme_anglais=Breast erythema|snomed_ct_id=444827008|approches_cliniques=Écoulement mammaire (approche clinique)}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "redirects": [
+        "Érythème du sein (signe clinique)",
+        "Rougeur du sein (signe clinique)"
+      ]
+    },
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  },
+  {
+    "vars": {
+      "specialty": "ORL, allergologie, infectiologie",
+      "title": "Érythème de la muqueuse nasale (signe clinique)"
+    },
+    "__title__": {
+      "create": "{{Article d'érythème (signe clinique)|autres_noms=Rougeur de la muqueuse nasale|modalités=Examen ORL, examen du nez|spécialités=__specialty__|systèmes=ORL|terme_anglais=Nasal mucosal erythema|snomed_ct_id=126486000|approches_cliniques=Rhinorrhée (approche clinique)}}\n\n==Notes==\n<references group=\"note\" />\n\n==Références==\n<references />",
+      "redirects": [
+        "Rougeur de la muqueuse nasale (signe clinique)"
+      ]
+    },
+    "Gestion:Rédaction/Tâches/__task_id_1__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=1|status=3|priority=3|task_completion_date=__date__|specialties=__specialty__|difficulty=1|editors=Utilisateur:Antoine Mercier-Linteau|reviewers=Utilisateur:Antoine Mercier-Linteau|class=Classe:Signe_clinique|projets=Gestion:Tâches/Liste/601/1|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=3}}"
+    },
+    "Gestion:Rédaction/Tâches/__task_id_2__": {
+      "create": "{{Tâche de rédaction|title=__title__|type=2|status=1|priority=3|specialties=__specialty__|difficulty=1|class=Classe:Signe_clinique|creator=Utilisateur:Antoine Mercier-Linteau|created=__date__|copyediting_status=6}}"
+    }
+  }
 ]
